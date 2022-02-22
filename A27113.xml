@@ -1,0 +1,1725 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Juvenilia sacra, or, Divine youthfull meditations consisting of a dialogue between Christ and the soul, a preparation to the Lords Supper, characters of the pious and impious man, of the good and wicked woman, the foure quarters of the yeare, ten historicall, ten scripture and ten occasional applications / by P.B., Gent.</title>
+            <author>P. B., Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 109 KB of XML-encoded text transcribed from 72 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27113</idno>
+            <idno type="STC">Wing B151</idno>
+            <idno type="STC">ESTC R5392</idno>
+            <idno type="EEBO-CITATION">11892639</idno>
+            <idno type="OCLC">ocm 11892639</idno>
+            <idno type="VID">50460</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27113)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50460)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 50:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Juvenilia sacra, or, Divine youthfull meditations consisting of a dialogue between Christ and the soul, a preparation to the Lords Supper, characters of the pious and impious man, of the good and wicked woman, the foure quarters of the yeare, ten historicall, ten scripture and ten occasional applications / by P.B., Gent.</title>
+                  <author>P. B., Gent.</author>
+               </titleStmt>
+               <extent>[8], 131, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Mabb, for John Playfere ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [4] at end.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Meditations --  Juvenile literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50460:1" rendition="simple:additions"/>
+            <pb facs="tcp:50460:1" rendition="simple:additions"/>
+            <p>Juvenilia SACRA, OR <hi>Divine Youthfull Meditations;</hi> CONSISTING,
+<list>
+                  <item>Of a Dialogue between Chriſt and the Soul.</item>
+                  <item>A Preparation to the Lords Supper.</item>
+                  <item>Characters of the Pious and Impious Man.</item>
+                  <item>Of the Good, and Wicked Woman.</item>
+                  <item>The Foure Quarters of the Year.</item>
+                  <item>Ten Hiſtoricall, Ten Scripture, and Ten Occaſional Applications.</item>
+               </list>
+            </p>
+            <p>By, <hi>P. B.</hi> Gent.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Tho. Mabb,</hi> for <hi>John Playfere,</hi> at the White <hi>Bear</hi> in the Upper Walk of the <hi>New-Exchange,</hi> 1664.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:50460:2" rendition="simple:additions"/>
+            <p>Perlegi hunc Libellum cui Titulus <hi>(Juvenilia Sacra)</hi> in quo nihil reperio ſanae fidei Di<g ref="char:EOLhyphen"/>ſciplinae Eccleſiae Anglica aut bonis moribus contrarium.</p>
+            <closer>
+               <signed>
+                  <hi>Joh. Hall</hi> R. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. D. Epiſc. <hi>Lon.</hi> à ſac. Domeſt.</signed>
+               <dateline>
+                  <date>Mar. <hi>15. 1663.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:50460:2"/>
+            <head>TO HIS Honoured Friend, <hi>Francis Daſhwood</hi> 
+               <abbr>Eſq</abbr>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have Read of <hi>Pylades</hi> and <hi>Oreſtes</hi> and many others, but the Paſt, Preſent, or Future Age, have not; nor will never Produce ſuch a Stupendious Example of Friendſhip, as Yours to me; which though I cannot Requite, yet I will never
+<pb facs="tcp:50460:3"/>
+Ceaſe to Acknowledge. I here Preſent You the Fruits of my Youthfull Idle Hours and it will be a Repetition of your former Courteſie, to Protect and Accept ſuch a Trifle; yet therein You have Your own Picture drawn in the Character of my Piou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Man, which if it be not to the Life, the World wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conclude, that it is not be<g ref="char:EOLhyphen"/>cauſe You wanted Merrit<g ref="char:punc">▪</g> but the Unskilfulneſs of,</p>
+            <closer>
+               <signed>Your Humble Servant, <hi>P. B</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:50460:3"/>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>PErhaps in the Peruſal of my little Book, thou mayeſt think me too Sa<g ref="char:EOLhyphen"/>tyrical, but I hope thy Ingenuity will apply theſe Invectives to thoſe, unto whom they were di<g ref="char:EOLhyphen"/>rected, to the Vicious; for miſ<g ref="char:EOLhyphen"/>take me not, I am none of thoſe that think all they which wear black patches, cannot go to Hea<g ref="char:EOLhyphen"/>ven, I only aime at ſuch, as hang them out as the Enſignes of Luſt; neither do I carp at all that are
+<pb facs="tcp:50460:4"/>
+attired in Gorgeous Apparrel: (No) for ſurely, the Lillies Beauty, and <hi>Solomons</hi> Royalty, was not diſpleaſing to God; But only at ſuch who are proud in them, that hug their Inventi<g ref="char:EOLhyphen"/>ons for deviſing fantaſtique fa<g ref="char:EOLhyphen"/>ſhions, that ſpend moſt of their time, in pruning of their Locks, and ſetting thoſe Netts to catch Fools, Suppoſe you ſhould be Enamoured of a falſe, though a ſeeming Lovely Beauty, and at the Inſtant of the Injoyment of your Imaginary Heaven, when your Sun ſhould diſrobe her ſelf of her Shroud; If then I ſay in<g ref="char:EOLhyphen"/>ſtead of the Beams of a dazling
+<pb facs="tcp:50460:4"/>
+Beauty, you ſhould meet with nothing but Deformity; Thoſe Treſſes which you have Eſteem<g ref="char:EOLhyphen"/>ed as the Netts of <hi>Cupid,</hi> as the Beams of the Sun, ſhould prove the horrid ſpoils of the dead; and thoſe teeth which you call'd Pearles, ſhould be falſe, as her ſelf, and confin'd each night, in<g ref="char:EOLhyphen"/>to a Box; would not this fright your reſolution? This is all that I have endeavoured to do, to un<g ref="char:EOLhyphen"/>mask the Strumpet, and ſhew you her ugly Viſage, hoping it may perſwade you no longer to ſerve ſo deformed a Miſtris; Here thou wilt finde Heavenly Milk for Babes; Counſel for Young
+<pb facs="tcp:50460:5"/>
+Men, and ſuch was I, being but ſixteen when I wrote moſt of them; hereafter when my Judg<g ref="char:EOLhyphen"/>ment grows Riper with my Years, I ſhall endeavour to give thee more ſolid food; If you reap any Fruit by the peru<g ref="char:EOLhyphen"/>ſall of my Book, I am too well paid for my Labour in Compo<g ref="char:EOLhyphen"/>ſing it,</p>
+            <closer>
+               <signed>
+                  <hi>Thine</hi> P. B.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:50460:5" rendition="simple:additions"/>
+            <div type="dialogue">
+               <head>Heaven and Earth in a Dialogue betwixt the Soul and Chriſt.</head>
+               <sp>
+                  <speaker>CHRIST.</speaker>
+                  <p n="1">1. <seg rend="decorInit">A</seg>H Fooliſh Soul! how often have I diſplayed unto thee the Beau<g ref="char:EOLhyphen"/>ties, and Riches of Heaven, pro<g ref="char:EOLhyphen"/>pos'd ſuch Glories as thy dim eyes were too weak to behold; Why wilt thou feed on huskes? empty pleaſures, when thou mayeſt be ſa<g ref="char:EOLhyphen"/>tisfied with Heavenly Manna, and
+<pb n="2" facs="tcp:50460:6"/>
+Fountains of ever Living Waters? why will you walk in the wayes of Sin? which are black as Egyptian darkneſs, horrid and full of preci<g ref="char:EOLhyphen"/>pices, and decline the milkie paths of Heaven which are ſmooth, and full of Innocency.</p>
+               </sp>
+               <sp>
+                  <speaker>SO<g ref="char:V">Ʋ</g>L.</speaker>
+                  <p n="2">2. True Lord, but yet my Darling World, comes with ten thouſand charms, and raviſhes my Soul, and can thoſe paths be unpleaſant, which are ſtrewed with pleaſure, and paved with love, if thy paths are ſo ſmooth, how then comes it that thy Servants ſo often ſtumble in them, ſure they are either rug<g ref="char:EOLhyphen"/>ged, or as you ſay hells are, ſo they are dark, tis the Poets milkie way is full of Stars.</p>
+               </sp>
+               <sp>
+                  <speaker>CHRIST.</speaker>
+                  <p n="3">3. Thy Darling, and all her Charme will ſoon leave thee; doeſt
+<pb n="3" facs="tcp:50460:6"/>
+thou truſt to terrene pleaſures? Alas the World is but a rotten ſtaire to mount up to Glory; Had <hi>Jacobs</hi> Ladder had one ſuch round in it, he could never have mount<g ref="char:EOLhyphen"/>ed up to Heaven by it; Could'ſt thou by the eye of Faith, but ſee the beauty of holineſs, the charms of thy Saviour, how would thy enlarged Soul be raviſhed with them; and if there be any rubbs in Heavens path, there are no pre<g ref="char:EOLhyphen"/>cipices, they do but ſtumble, not fall; whereas the wicked, when they are once fallen, are like the Elephant, they ſeldome riſe; and as the Poets, ſo is Heavens milkie way full of Stars; it is ſtuck full of the Pious Examples of my Saints, which may ſerve as ſo many Con<g ref="char:EOLhyphen"/>ſtellations to guide thee; And I thy Saviour am thy North Star, by which if thou doeſt ſtear, thou canſt not erre.</p>
+               </sp>
+               <sp>
+                  <pb n="4" facs="tcp:50460:7"/>
+                  <speaker>SO<g ref="char:V">Ʋ</g>L.</speaker>
+                  <p n="4">4. But Lord are not thy paths more rugged then thoſe of ſin, Loves fire with a kind of miſtick heat onely cheriſhes our Souls, and who would not rather live in ſuch a flame, then ſuch as do thy Ser<g ref="char:EOLhyphen"/>vants, who are conſumed by that of Martyrdom; what are thy cares but deaths heads, ſighs and tears, and are theſe thy pleaſures? is this Heavens banquet?</p>
+               </sp>
+               <sp>
+                  <speaker>CHRIST.</speaker>
+                  <p n="5">5. The Paths of ſin ſeem ſmooth, but alas they are paved with thorns, though ſin hath ſubtilly covered them with flowers, and guilded her poiſon: Hells flames are not ſo black as thoſe of luſt, inſtead of cheriſhing thy Soul, it preyes upon it; whereas the Fire of Martyrdom, doth make you like Gold to come out of it more
+<pb n="5" facs="tcp:50460:7"/>
+glorious: And if Deaths Heads, Sighs and Tears, are ſuch harſh food unto thee, it is becauſe thou knoweſt not how to uſe them a<g ref="char:EOLhyphen"/>right, and beſides this thou ſhalt eat Celeſtial Manna, and if all this will not pleaſe thee thou ſhalt by faith eat my Fleſh, and drink thy Saviours Blood.</p>
+               </sp>
+               <sp>
+                  <speaker>SO<g ref="char:V">Ʋ</g>L.</speaker>
+                  <p n="6">6. When I aſſault a Beautie, what delight it is to ſee what pret<g ref="char:EOLhyphen"/>tie ſhifts it will make, to avoid be<g ref="char:EOLhyphen"/>ing conquered, how ſometimes I am forced to let mine eyes, ſhowre on her ſtonie heart, till their con<g ref="char:EOLhyphen"/>tinual dropping have worn away its hardneſs? what prettie devices it makes us invent, when Doves are our Poſt-Maſters, how ſome<g ref="char:EOLhyphen"/>times I ſeek to bribe my prettie Enemie with gifts, and then how I glory in my Conqueſt? my thinks
+<pb n="6" facs="tcp:50460:8"/>
+                     <hi>Caeſar</hi> did not ſo well deſerve a tri<g ref="char:EOLhyphen"/>umph, for ſubduing the Univerſe, as I for Vanquiſhing my little World.</p>
+               </sp>
+               <sp>
+                  <speaker>CHRIST.</speaker>
+                  <p n="7">7. And I will teach thee how thou ſhalt woe Heaven, how thou ſhalt make the Heavens bow, and come down, and catch thy pious whiſpers, and my Holy Dove ſhall be the Carrier of them, and bring them into my Fathers boſome, and thus ſhalt thou ſubdue Heaven, and thouſands of Angels ſhall rejoyce at thy Victory, and thou ſhalt ride in Triumph on a Cherubs wings, and thus ſhalt thou enter the ever<g ref="char:EOLhyphen"/>laſting Gates of the King of Glory.</p>
+               </sp>
+               <sp>
+                  <speaker>SO<g ref="char:V">Ʋ</g>L.</speaker>
+                  <p n="8">8. How do the Raviſhing Charms of a beautious Face allure my Soul? Who would not be an Aſtronomer in ſuch a Skie? O! I
+<pb n="7" facs="tcp:50460:8"/>
+could eternally gaze on her faire Stars, and view the miſtick Circles, and Lines of that little Heaven.</p>
+               </sp>
+               <sp>
+                  <speaker>CHRIST.</speaker>
+                  <p n="9">9. How then wouldeſt thou be raviſhed at thy Saviours Beauties? when Angels themſelves, are not Eagles enough, to behold ſuch a Sun, without vailing their faces with their wings.</p>
+               </sp>
+               <sp>
+                  <speaker>SO<g ref="char:V">Ʋ</g>L.</speaker>
+                  <p n="10">10. Oh but then her eyes have a powerfull influence over me? with what a Divine Light they pierce through my Soul? How doth it raviſh my heart to behold thoſe prettie Babies in them? how like airie Cherubs they dance on our twiſted Beams? Had <hi>Adam</hi> fal<g ref="char:EOLhyphen"/>len for ſuch Apples, he had in ſome ſort been more excuſable.</p>
+               </sp>
+               <sp>
+                  <speaker>CHRIST.</speaker>
+                  <p n="11">11. And wilt thou looſe Hea<g ref="char:EOLhyphen"/>ven
+<pb n="8" facs="tcp:50460:9" rendition="simple:additions"/>
+again for an Apple? If her eyes are Stars, they are blazing ones, and ſuch as portend thy Ruine. <hi>Troy</hi> had ſtood, had not <hi>Hellens</hi> eyes ſet it on Fire; Thou wilt prove but a bad Pilate if thou Steareſt by thoſe Stars; Ah how Glorious, how full of charming Innocency muſt thy Saviours eyes be, which as my Spouſe ſings, are as the Doves, waſhed with milk.</p>
+               </sp>
+               <sp>
+                  <speaker>SO<g ref="char:V">Ʋ</g>L.</speaker>
+                  <p n="12">12. Who can ſee her cheeks? and not admire their rich Carna<g ref="char:EOLhyphen"/>tion? or who but views the Cher<g ref="char:EOLhyphen"/>ries of her Lips, and would refuſe ſuch a Banquet?</p>
+               </sp>
+               <sp>
+                  <speaker>CHRIST.</speaker>
+                  <p n="13">13. And canſt thou not for<g ref="char:EOLhyphen"/>bear to quaffe poiſon, becauſe it is in a ruby Cup, If her Cheeks be Beds of Roſes, doſt thou not care if thou art ſmothered in
+<pb n="9" facs="tcp:50460:9" rendition="simple:additions"/>
+them? Oh how fragrant are the Roſes of thy Saviours Cheeks? how ſoft are thoſe beds of Spices? how ſweet muſt his Lips be? That like Lillies drop with ſweet ſmel<g ref="char:EOLhyphen"/>ling Myrrhe.</p>
+               </sp>
+               <sp>
+                  <speaker>SO<g ref="char:V">Ʋ</g>L.</speaker>
+                  <p n="14">14. Can ſhe be leſſe then Hea<g ref="char:EOLhyphen"/>ven? From whom the ſame effects proceed? Doth not the Lightning of her eyes, like that of Heaven, melt the ſoul, yet ſpare its ſheath<g ref="char:punc">▪</g> Is there not the Harmony of the Sphears, in her tongue? If man be called a little world, ſurely woman is a little Heaven, and then what miſtick fetters are her locks? when Kings in the midſt of Mighty Armes have been enchained by them? And how Lord am I able to break thoſe fetters, when the great <hi>Sampſon,</hi> he to whom the ſtrongeſt bonds, were but as Flax
+<pb n="10" facs="tcp:50460:10"/>
+before the Fire, was manacled by them?</p>
+               </sp>
+               <sp>
+                  <speaker>CHRIST.</speaker>
+                  <p n="15">15. And if Beauty do ſpread her locks to catch thee? muſt thou needs be taken? Tis the degene<g ref="char:EOLhyphen"/>rate Flie, is trapt in the ſubtil net of a Spiders web, the Noble Eagle breaks through ſuch a weak toile.</p>
+               </sp>
+               <sp>
+                  <speaker>SO<g ref="char:V">Ʋ</g>L.</speaker>
+                  <p n="16">16. How doth the preſence of my fair one Chear my heart? thoſe Clouds of ſorrow which benight<g ref="char:EOLhyphen"/>ed my Soul, fly away at the ap<g ref="char:EOLhyphen"/>proach of my fair Sun; But ah! her abſence is my Hell? then my eyes are loath to open their lidds, ſince that which onely was plea<g ref="char:EOLhyphen"/>ſing to them is gone, unleſſe it be to free a tear, which they detained in their Criſtal Priſons.</p>
+               </sp>
+               <sp>
+                  <speaker>CHRIST.</speaker>
+                  <p n="17">17. Fooliſh Soul, thus to Joy
+<pb n="11" facs="tcp:50460:10"/>
+when thy ruine is near, and bewail it abſent? were thoſe tears ſhed, becauſe thy Son of Righteouſneſſe had withdrawn his face, they were worthily ſpent, indeed thou ſhouldeſt reſemble the pretty Mary Gold, which when night is come, and it is deprived of its beloved object, it hangs down its weak head, and waſhes its Cheeks in tears; but as ſoon as its Sun ap<g ref="char:EOLhyphen"/>pears, it advances its Crown, and diſplaies its Saffron Cheeks, and if any tears appear on them, they are tears of Joy; For after a while I will come unto thee again, and comfort thy ſick ſoul with Apples, and kiſſe away thy tears with the kiſſes of love, and I will fill thy heart with joy, till it over-flow its banks, and I will leave thee no more, but we will fly to the Moun<g ref="char:EOLhyphen"/>tains of Myrrhe, to the Hills of
+<pb n="12" facs="tcp:50460:11"/>
+Frankincenſe, and there will I give thee my Loves, there ſhalt thou en<g ref="char:EOLhyphen"/>joy pleaſures and beauties, as laſt<g ref="char:EOLhyphen"/>ing as yours are fading.</p>
+               </sp>
+               <sp>
+                  <speaker>SO<g ref="char:V">Ʋ</g>L.</speaker>
+                  <p n="18">18. Can that Beauty be fading, that hath a continuall Summer in its Cheeks for forty years? And how can the Lillies of her Cheeks wither? ſeeing they have two ſuch Chryſtal Fountains, as her eyes to water them, two ſuch Suns to che<g ref="char:EOLhyphen"/>riſh them, with their heat and in<g ref="char:EOLhyphen"/>fluence.</p>
+               </sp>
+               <sp>
+                  <speaker>CHRIST.</speaker>
+                  <p n="19">19. Alas how ſhort a moment is thy forty years, to the eternity of thy Saviours Beauty? Doſt thou place thy Felicity in ſuch fa<g ref="char:EOLhyphen"/>ding Beauties, when in that ſpace its Lillies and Roſes ſhall wither? and then not all her Charms, nor her Angels voice ſhall bribe Death;
+<pb n="13" facs="tcp:50460:11"/>
+the ſilent Rhetorick of her eyes ſhall not woe him to defer the ſtroke one moment; but thoſe Chryſtal Fountains ſhall be dryed up, and darkneſſe poſſeſſe the Orbes of thoſe fair Suns.</p>
+               </sp>
+               <sp>
+                  <speaker>SO<g ref="char:V">Ʋ</g>L.</speaker>
+                  <p n="20">20. But Lord there are more variety of pleaſures in the ſervice of ſin, then in thine; ſometimes ſweet ſociety joyes my ſoul; ſome<g ref="char:EOLhyphen"/>times again I recreate my ſelf, ſit<g ref="char:EOLhyphen"/>ting by the ſweet murmurs of ſome purling Brookes, and bathing in it, or under the ſhade of ſome lovely Grove.</p>
+               </sp>
+               <sp>
+                  <speaker>CHRIST.</speaker>
+                  <p n="21">21. This, and more then this can I give thee, thou ſhalt ſit with greater pleaſure under the ſhad<g ref="char:EOLhyphen"/>dow of my wings, thou ſhalt ſit by the ſtreams of Righteouſneſſe, and bath thy Soul in them, thou
+<pb n="14" facs="tcp:50460:12"/>
+ſhalt commune with Heaven it ſelf and quiers of Angels with Joyful Hallelujahs, ſhall ſalute thy Eare.</p>
+               </sp>
+               <sp>
+                  <speaker>SO<g ref="char:V">Ʋ</g>L.</speaker>
+                  <p n="22">22. Sometimes my Fancy i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> both pleaſed and buſied, to view magnificent Palaces, how thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Towring heads ſeem to kiſſe th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Clouds, the ſtatelineſſe of their Gates, the Richneſſe of their pave<g ref="char:EOLhyphen"/>ments, and glittering with Gold.</p>
+               </sp>
+               <sp>
+                  <speaker>CHRIST.</speaker>
+                  <p n="23">23. And I will carry thee to the New Jeruſalem, to my Fathers Manſions, whoſe every Gate is Pearle, the Streets are paved with Gold, and precious Stones, that which is now thy Idol, thou ſhalt then tread under thy feet, and how glorious a reflex muſt they make, being guilded by the Beams of the Son of Righteouſneſſe, there is no other Son, the Glory of God
+<pb n="15" facs="tcp:50460:12"/>
+and the Lamb are the Light there<g ref="char:EOLhyphen"/>of; And then wilt thou ſay, Fool that I was, I had thought that thy Jeruſalem, had been like one of our Citties.</p>
+               </sp>
+               <sp>
+                  <speaker>SO<g ref="char:V">Ʋ</g>L.</speaker>
+                  <p n="24">24. They ſay Riches have wings and fly away; true they fly away, but then they ſend me home in their ſtead, ſweet Wines delici<g ref="char:EOLhyphen"/>ous Cates, and gorgeous Appar<g ref="char:EOLhyphen"/>rel, and who would part with ſuch beloved Minions, ſince they make me reſpected of all? Nay I think my ſelf almoſt a God, whilſt I walk in the midſt of my thouſands of Angels.</p>
+               </sp>
+               <sp>
+                  <speaker>CHRIST.</speaker>
+                  <p n="25">25. If they are Angels, they are evil ones, they fly away, and ſend thee home ſweet Wines, and delicious Cates, that is Feavers, and Surfets, doſt thou truſt to ſuch
+<pb n="16" facs="tcp:50460:13"/>
+helps? as are ſwallowed in the curling of <hi>Neptunes,</hi> or thy Princes frown? But wilt thou be Rich in<g ref="char:EOLhyphen"/>deed? Oh! then Treaſure up thy Wealth in Heaven, if thou wilt put out thy money to the higheſt Intereſt, put it out to the Poor, and then thou needeſt not fear to looſe it, for God himſelf is their ſecurity, and ſurely he is ſufficient to repay thee?</p>
+               </sp>
+               <sp>
+                  <speaker>SO<g ref="char:V">Ʋ</g>L.</speaker>
+                  <p n="26">26. Surely they are deceived, that ſay a Crown hath more Thorns then Jewels in it; That Ambition is a Mountain, whoſe aſcent is craggie, and its top of Glaſſe; If State be a Priſon, tis a Golden one, and who can be more ſecure then he that is encompaſſed with huge Armes? with what rap<g ref="char:EOLhyphen"/>tures is my ſoul inſpired, to ſee it ſelf elevated above the Common
+<pb n="17" facs="tcp:50460:13"/>
+Rank, like ſome New Star ſtuck in the Firmament, the Object of all mens eyes and wonder.</p>
+               </sp>
+               <sp>
+                  <speaker>CHRIST.</speaker>
+                  <p n="27">27. If thy Priſon be of Gold, the more is thy miſery, for it is the ſtronger. A ſilly Shepheard is a far more happy King then thou; whiles he makes a Mole-Hill his Throne, none ſeek to rend it from him, and being but low, his Fall cannot be Great, his Innocent Sub<g ref="char:EOLhyphen"/>jects obey his Voice, and without murmuring pay him the Tribute of their Silver Fleeces: But thou deceiveſt thy ſelf in thy Security on a Throne; Do'ſt thou think to eſcape Storms and Thunder by aſ<g ref="char:EOLhyphen"/>cending a Mountain? If thou wilt aſcend unto the Stars indeed, thou muſt do it by deſcending, for hu<g ref="char:EOLhyphen"/>mility is the readieſt flight to Hea<g ref="char:EOLhyphen"/>ven, and that is a path ſo plain
+<pb n="18" facs="tcp:50460:14"/>
+and ſmooth, thou needeſt not ſea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> falling, and there alone tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> can'ſt reſt ſecure, for Legions o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Angels ſhall be thy Guard, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thouſands of Cherubins wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> their flaming Swords defend the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>SO<g ref="char:V">Ʋ</g>L.</speaker>
+                  <p n="28">28. But Lord I am a Souldie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and ſhall I forego my Fame whic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſpeaks me great, and Ring<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> through the Univerſe? Whilſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> carve out a Monument of my ow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Glory with my Sword, where if <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> periſh it is Nobly, and in the Be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of Honour.</p>
+               </sp>
+               <sp>
+                  <speaker>CHRIST.</speaker>
+                  <p n="29">29. Thy Fames ſtory muſt b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> writ with thy own Blood, thy ga<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ping wounds muſt be the mouth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to ſpeak thee Famous, ſee at wha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a rate thou purchaſeſt empty Ho<g ref="char:EOLunhyphen"/>nour? And wilt thou for a blaſt o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> breath, loſe thy own breath, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <pb n="19" facs="tcp:50460:14"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t be in a bad Cauſe, thy Soul too? But if thou fighteſt under my Ban<g ref="char:EOLhyphen"/>ners, thou ſhalt ſubdue Sin and Hell, Monſters and Devils, and every drop of blood thou looſeſt, I will Eſteem as a Pretious Ruby.</p>
+               </sp>
+               <sp>
+                  <speaker>SO<g ref="char:V">Ʋ</g>L.</speaker>
+                  <p n="30">30. What though I have not Virtue? Yet I can look ſo like her, that ſimple ones can call me pious.</p>
+               </sp>
+               <sp>
+                  <speaker>CHRIST.</speaker>
+                  <p n="31">31. But thou muſt be pious, and not onely ſeem ſo, elſe thy God when he comes to bind up his Jew<g ref="char:EOLhyphen"/>els, will eaſily diſcern ſuch <hi>Briſtow</hi> Stones from Diamonds, and give thee the reward of Hypocrites.</p>
+               </sp>
+               <sp>
+                  <speaker>SO<g ref="char:V">Ʋ</g>L.</speaker>
+                  <p n="32">32. But Lord, thy Servants, do not only lead a life full of Miſery, but often leave this Life with a bloody <hi>Exit.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="20" facs="tcp:50460:15"/>
+                  <speaker>CHRIST.</speaker>
+                  <p n="33">33. Alas, my Yoak is eaſy to all them that bear it, for my Spirit ſtrengthens them in all their trou<g ref="char:EOLhyphen"/>bles, nay I can make them even in love with Death it ſelf, and ſwee<g ref="char:EOLhyphen"/>ten that bitter Cup to them.</p>
+               </sp>
+               <sp>
+                  <speaker>SO<g ref="char:V">Ʋ</g>L.</speaker>
+                  <p n="34">34. Surely Death is a grim Ser<g ref="char:EOLhyphen"/>vant, what can there be in him to enamour me, is it his Beauty? Ah no! Night and Darkneſs are in his face, his Embraces are rough, he darts not ſmiles, but a deadly ſhaft, and is this a Beauty to be raviſhed with?</p>
+               </sp>
+               <sp>
+                  <speaker>CHRIST.</speaker>
+                  <p n="35">35. Is a Feaſt the worſe, becauſe a Black-amoore Uſhers thee to it? Such is Death, or elſe Death is but like a dark Vaile drawn o're thy face; and although thou doſt ſit in a ſcarlet Cloud, yet thou ſhalt
+<pb n="21" facs="tcp:50460:15"/>
+riſe again with greater Luſtre of Immortality and Glory.</p>
+               </sp>
+               <sp>
+                  <speaker>SO<g ref="char:V">Ʋ</g>L.</speaker>
+                  <p n="36">36. Thou art all ſweet oh my Saviour, thou haſt overcome, and now I find all my ſuppoſed de<g ref="char:EOLhyphen"/>lights but as a dream; Now I ſee my <hi>Delila</hi>'s Deformity, She that I once thought fair as Heaven, but I now look on her eyes as <hi>Nauplius</hi> falſe Light ſet to draw the <hi>Grecians</hi> to their Ruines; on her Cheeks, as beds that for one Roſe bear a thouſand Thorns; on her lips, as ſoft wax wherewith we ſealed ma<g ref="char:EOLhyphen"/>ny a wicked bargain; on her locks as fatall Giues that have kept me too long a Priſoner; that boſome which I called Loves Tempe, is now as a Valley hideous with Thorns; her voice is as the Screetch Owles which bodes deſtruction; Oh that fooliſh man ſhould truſt
+<pb n="22" facs="tcp:50460:16"/>
+theſe Syrens; Farewell, for eve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> all you falſe Beauties, farewell my <hi>Delilahs:</hi> I will ſigh no more, to puffe the ſpark of Affection into a flame in my <hi>Minions</hi> breaſt, to thee ſweet Jeſu ſhall they be ſent; to thee ſhall all my vowes be paid, thou ſhalt be the Sun under whoſe ſweet influence I will deſire to live, thy Armes the Priſon, from which I will pray never to be freed; when I fit by the murmurs of a Brooke, it ſhall be to conſider its Obedience to its Makers Com<g ref="char:EOLhyphen"/>mand, in paying the Tribute of its water to the Sea; And how I have run backwards; when I lye under a Tree's fair ſhade, it ſhall be to ad<g ref="char:EOLhyphen"/>mire the ſoft muſick of its leaves, as if every leafe were a tongue to ſing its Makers Praiſe, and how mine hath either been ſilent or elſe Blaſpheming of him. I will be
+<pb n="23" facs="tcp:50460:16"/>
+Ambitious, but it ſhall be of thy Favour; My Riches I'le diſtribute to the Poor, and then they will have wings indeed and take their flight to Heaven; The deſires of my heart ſhall be to be diſſolved, and to be with my Saviour; For Lord, the Walls of my Clayey Priſon hinder my Soul from view<g ref="char:EOLhyphen"/>ing thee fully, it can but peepe through the Caſements of my eyes, and ſo by reflex in thy word, ſee ſome weak glimmerings of thee; This, this is the way to make me a Conquerour, me thinks al<g ref="char:EOLhyphen"/>ready my wars are done, and I have nothing now to expect but Rewards and Triumphs, hence forward is laid up for me a Crown of Life and Glory.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <pb facs="tcp:50460:17"/>
+               <pb n="25" facs="tcp:50460:17"/>
+               <head>A PREPARATION TO THE LORDS SUPPER.</head>
+               <p>OUr Bleſſed Saviour knowing how weak man is to perform his Duty, leaſt we ſhould faint in our Pilgrimage to the New <hi>Jeruſalem,</hi> hath provided for our Suſtenance his own fleſh and blood: A Food which the Angels have not; do thou therefore run often, and with Joy, to the Sup<g ref="char:EOLhyphen"/>per of thy deareſt Lord, and not
+<pb n="26" facs="tcp:50460:18"/>
+with the Iſraelites, ſeem to have Manna ſo long about thy Tents, that now thou loatheſt it; thou often fainteſt in thy Combat with Satan, and therefore haſt often need of this Cordial, of this Cha<g ref="char:EOLhyphen"/>lice of bleſſing to comfort thee, and canſt thou too often remem<g ref="char:EOLhyphen"/>ber thy Saviour? Or is that which he hath done for thee not worthy thy memory? But have a care that thou comeſt prepared, for Bees ſuck honey from this flower, but Spiders poyſon: And if thou un<g ref="char:EOLhyphen"/>worthily receiveſt, this water of life will become as the waters of <hi>Marah,</hi> it will be bitter unto thy Soul: It is the Marriage Supper of the Lamb, put on therefore thy Royal Robes; but Purples or Ty<g ref="char:EOLhyphen"/>rian ſilks is not the wedding Gar<g ref="char:EOLhyphen"/>ment, wherewith thou muſt be cloathed, but Faith, Hope, Repen<g ref="char:EOLhyphen"/>tance,
+<pb n="27" facs="tcp:50460:18"/>
+Euchariſt, and Charity; and now that Chriſt will come in and Sup with thee, let not the fil<g ref="char:EOLhyphen"/>thineſs of the Room drive him away.</p>
+               <q>
+                  <l>Aſpicis ut veniant ad candida tecta Columbae,</l>
+                  <l>Accipiet nullas ſordida turris aves.</l>
+               </q>
+               <p>And that ſpotleſſe Dove will not dwell in a polluted Soul; and therefore thus do thou prepare the Cabinet of my heart, firſt waſh it throughly with Repentance tears, then make it bright with Charity, for the money thou giveſt in Alms guilds thy ſoule; hang it round with Purity and Innocence; let it be paved with Love; and leaſt it ſeem dark, alight in it the Lamp of a holy Zeal. Thou muſt examine thy ſelf, and repent thee of all thy ſins; Ah Crucifie them which have Crucified thy Saviour; thou muſt
+<pb n="28" facs="tcp:50460:19"/>
+not have the leaſt affection for any of them, no, not for thy Darling Crown it with hatred and con<g ref="char:EOLunhyphen"/>tempt, which hath Crowned him with Thorns, and why ſhoulde<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thou ſpare thy Darling ſins, whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Almighty ſpared not his Be<g ref="char:EOLhyphen"/>loved? And then think of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> greatneſſe of thy ſins; which could not be expiated but by th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> death of the Son of God: and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with humble thoughts of thy ſel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with a broken heart receive a bro<g ref="char:EOLunhyphen"/>ken Saviour. Chriſt will not dwel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in a Den of Theeves, thou muſt overturn the Tables fill'd with un<g ref="char:EOLunhyphen"/>lawfull gain, and caſt out Frau<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Covetouſneſs, whipping the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> out of the Temple of thy heart thou muſt lay aſide Anger, and without Malice approach the Ta<g ref="char:EOLunhyphen"/>ble of the Lamb of peace; and though the worldling had rather
+<pb n="29" facs="tcp:50460:19"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt ſins falſe Delicates, yet do thou hunger and thirſt after this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ood, Oh it proves ſweet to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hirſty Soul.</p>
+               <p>This duty of preparation ought not to be the work of an hour, or a day, for thy Soul is too filthy to be cleanſed in an hour, and thy Re<g ref="char:EOLhyphen"/>bellious Luſts too ſtubborn to be ſubdued in a day; and when thou haſt with the moſt diligent care, and ſtricteſt zeal, prepared thy heart, yet ſtill confeſs thine own filthineſs, for indeed thou mayeſt juſtly fear that thou ſhalt lodge thy Saviour, as he was at his birth, in a Stable amongſt Beaſts, in a foul ſoul, amongſt bad thoughts, and evil deſires; and therefore pray that he would cleanſe thee, and then thou wilt be clean indeed; thy poverty can be no excuſe to thee, for this is ſuch a Garment
+<pb n="30" facs="tcp:50460:20"/>
+as every one may purchaſe.</p>
+               <p>The happy hour being come approach with reverence, imagin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> your ſelf at Gods Table, that yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are at Supper in Heaven; hereb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the eye of Faith thou mayeſt re<g ref="char:EOLunhyphen"/>preſent to thy ſelf thy Saviour Paſſion writ in red Characters; th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sun of Righteouſneſs ſetting in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ruddy Cloud. Here thou maye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> behold that lovely Roſe of <hi>Sharo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> purpled with his own blood; th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lamb of God worried by Wolves now he truly ſeems as a Lilly a<g ref="char:EOLunhyphen"/>mongſt the Thorns, whileſt Cru<g ref="char:EOLunhyphen"/>cified betwixt two Theeves; tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mayeſt behold him denyed b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> men whom Devils confeſſed, ſcof<g ref="char:EOLunhyphen"/>fed, and wounded, whom th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Angels count i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their higheſt Glo<g ref="char:EOLunhyphen"/>ry to reverence.</p>
+               <p>When thou ſeeſt the bread bro<g ref="char:EOLunhyphen"/>ken, ah then remember a torn Sa<g ref="char:EOLunhyphen"/>viour;
+<pb n="31" facs="tcp:50460:20"/>
+as thou taſteſt the ſweet<g ref="char:EOLhyphen"/>neſs of the wine, think what a bitter Cup he drank: ſee, ſee him ſtretching out his Arms ready to embrace thee, and fix'd with nails, as if to ſignifie they would be ever open: See thoſe hands which healed others, now wounded; that mouth praying for thoſe which fill'd it with Gall and Vi<g ref="char:EOLhyphen"/>negar: Conſider what a weight did thy ſins add to his Croſſe, when he ſunk under it; The Jewes Crown'd him with Thorns, but how many Thorns in that Crown were thy ſins? The Thorns prick'd his Temples, and thy ſins his Soul. Then remember the infiniteneſs of his love, doth he delight in the death of a ſinner, who dyed that he might live? Would he have bought thee at ſuch a dear rate, if he had not lov'd thee? He paid
+<pb n="32" facs="tcp:50460:21"/>
+for thee every drop of his hear<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> blood; Thoſe were the Rubie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wherewith he purchaſed thy Re<g ref="char:EOLhyphen"/>demption; and Lord what an ill bargain thou ſeem'ſt to have of it and almoſt to have been too pro<g ref="char:EOLhyphen"/>fuſe of thy Coeleſtial Treaſure, to pay down ſuch a price for a poo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> worm, a clod of earth: How ſhort is all love to thine, who ever fed his Friend with his own fleſh and blood? This Lord thou doſt; and leaſt we ſhould doubt of the reali<g ref="char:EOLunhyphen"/>ty of thy love, thou ſuffereſt a window to be made in thy ſide that through it we might look, and ſee the ſincerity of thy heart<g ref="char:punc">▪</g>
+               </p>
+               <p>When thou canſt thus repreſen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to thy ſelf the Dolour of thy Sa<g ref="char:EOLunhyphen"/>viours Paſſion, what tears ſhould this extract from thy eyes? What ſighs from thy boſome? And if thou art not fill'd with Compaſ<g ref="char:EOLhyphen"/>ſion,
+<pb n="33" facs="tcp:50460:21"/>
+the very Earth and Rocks will riſe up in Judgement againſt thee, for the Earth trembled, and the Rocks groan'd, and were rent a ſunder at his ſufferings.</p>
+               <p>But this is not all, thou muſt not only commemorate thy Saviours death, but withall believe, that his wounds make thee whole; that his blood cleanſes all thy ſpots, ap<g ref="char:EOLhyphen"/>peaſes his Fathers wrath, and ſub<g ref="char:EOLhyphen"/>dues ſin and hell, his Croſſe was the Club wherewith our ſpirituall <hi>Hercules</hi> ſubdued all his and our E<g ref="char:EOLhyphen"/>nemies; If thou canſt thus receive thy Saviour, he will not only come in and Sup, but abide with thee for ever: A bundle of Myrrhe will thy Beloved be, and will lye all night betwixt thy breaſts: thou mayeſt then be aſſured that thy ſins are forgiven, thou haſt Gods hand in the Scriptures, and the
+<pb n="34" facs="tcp:50460:22"/>
+broad Seals of Heaven, in this Sa<g ref="char:EOLunhyphen"/>crament, for the pardon of them How bitter will the Worlds De<g ref="char:EOLunhyphen"/>licates taſt after this feaſt? It is ſai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of one, that he ſold a Kingdom for a Cup of water; ah who woul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not, though he were Maſter of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Univerſe, ſell it for one drop of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chalice?</p>
+               <p>And now thy Chriſt being en<g ref="char:EOLunhyphen"/>tred into thy Soul, entertain th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> great Gueſt with holy Diſcourſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> deſire him, ſince he hath caſt or the ſtrong man, now to keep po<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſeſſion; and Satan, knowing th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he who hath ſo often overcom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him is within, will be diſcourage to aſſault thee any more; and if th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Blind and Lame, the Sick and Le<g ref="char:EOLunhyphen"/>prous, were cur'd but with a touc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of his Garments: Surely thou wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be throughly healed, ſeeing tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Jeſus dwells in thy Soul; and the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="35" facs="tcp:50460:22"/>
+return him Praiſes and Thankſgi<g ref="char:EOLhyphen"/>ving, becauſe he hath brought thee to his Banquetting Houſe, and diſ<g ref="char:EOLhyphen"/>played his Banner of Love over thee; and hath made thee ſit down under his ſhaddow with great de<g ref="char:EOLhyphen"/>light whileſt his fruit hath been ſweet to thy taſt; and do not thou refuſe to feed his Members with Bread, who hath fed thee with the Bread of Life; and now thou art cleanſed, take heed thou Defile not thy ſelf again; Alas, ſpots add not to the Beauty of Chriſts Spouſe; and ſeeing he to Eſpouſe thee hath become bone of thy bone, and fleſh of thy fleſh: and hath left Father and Country, Hea<g ref="char:EOLhyphen"/>ven and Glory, for Love of thee: Ah, do not thou run after a ſecond Love; do but compare thy Spouſe to the deformity of Satan, and then ſure thou canſt not be ſo ſtu<g ref="char:EOLhyphen"/>pid,
+<pb n="36" facs="tcp:50460:23"/>
+as to exchange a ſpotleſs Dove<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for a Vulture: beauty, and him that is the choiceſt of ten thou<g ref="char:EOLunhyphen"/>ſands, for a Blackamore, and De<g ref="char:EOLunhyphen"/>formity: Let his Love therefore alone ſatisfie thee, and thus whe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the night of thy death is come thou ſhalt go and enjoy thy Spouſe for ever.</p>
+            </div>
+            <div type="part">
+               <pb n="37" facs="tcp:50460:23"/>
+               <head>CHARACTERS OF THE
+<list>
+                     <item>
+                        <hi>PIO<g ref="char:V">Ʋ</g>S,</hi>
+                     </item>
+                     <item>
+                        <hi>IMPIO<g ref="char:V">Ʋ</g>S,</hi>
+                     </item>
+                  </list> Man.
+<list>
+                     <item>
+                        <hi>GOOD,</hi>
+                     </item>
+                     <item>
+                        <hi>WICKED,</hi>
+                     </item>
+                  </list>Woman.</head>
+               <div type="section">
+                  <head>A Pious Man,</head>
+                  <p>IS the only <hi>
+                        <g ref="char:V">Ʋ</g>lyſſes</hi> that can paſſe by the <hi>Syrens</hi> of the Earth, and not be taken by them: the Strum<g ref="char:EOLhyphen"/>pet World, ſpreads forth her Dan<g ref="char:EOLhyphen"/>gling Treſſes to inſnare him, war<g ref="char:EOLhyphen"/>bles her moſt Raviſhing Layes to Court him to her Embraces; but he like <hi>Sampſon</hi> ſnaps his bonds in ſunder, and all her Charming can
+<pb n="38" facs="tcp:50460:24"/>
+never induce him to Dance afte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> her Pipe. In the Glaſſe of h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Wiſdome, he ſees the Vanity o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Delights of Luſt; by it he per<g ref="char:EOLunhyphen"/>ceives the Lillies which the La<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>vious fancy in their <hi>Minio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> Cheeks, to be Lillies indeed, no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſome and unſavory, therefore cha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> he is, and under the Roſes of h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Lips, are hid prickles, which the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> lye in Garriſon to defend the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> from the Rude Aſſaults of Luſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> His Houſe is a little Church, h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Heart the Altar, whereon conti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ually flames a Holy and Religion Fire; Temptations may Aſſaile but not Conquer him, or if an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> pleaſure do take hold of him, it but to make him taſt their bitt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſweetneſs, that ſo he may the mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> abhor them: He is above th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> World, and being founded on th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Rock of his Salvation, he the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="39" facs="tcp:50460:24"/>
+ſits and laughs to ſee how the Am<g ref="char:EOLhyphen"/>bitious man puffs and ſweats, to Climbe the craggy Mountain, Ho<g ref="char:EOLhyphen"/>nour, from which he often irreco<g ref="char:EOLhyphen"/>verably falls. He is a Pious Dove, not Gall enough in him to pro<g ref="char:EOLhyphen"/>voke an injury, his mind is a Sea alwayes calme, neither the adverſe puffs of Fortune, nor the nipping blaſt of Malicious Tongues, can raiſe one wave, or make it ſwell into the leaſt Intemperate Anger, Afflictions cannot diſmay him, for he knows them to be the Correcti<g ref="char:EOLhyphen"/>ons of a Gracious Father, yea even at the Martyrs ſtake, like the pret<g ref="char:EOLhyphen"/>py Nightingale againſt a Thorn, he can ſweetly chaunt forth Halle<g ref="char:EOLhyphen"/>lujahs to his God; and therefore needs not be ſmothered in a Cham<g ref="char:EOLhyphen"/>ber full of Roſes, as a Tyrannous Emperour did his Servants, that they might meet with ſweetneſſe,
+<pb n="40" facs="tcp:50460:25"/>
+even in the bitterneſſe of Death for he can find it in the middeſt o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the flames, which is to him but a bed of Roſes; he hath often tug<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>g'd and wraſtled with Satan, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> though the Divel may give him <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> half turn, or ſome little foiles, ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> yet he is alwayes fain to take th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> fall himſelf; Nay ſometimes h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> will prevaile with God, and b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> his fervent Prayer, diſarme th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Almighty, as it were of his Thun<g ref="char:EOLunhyphen"/>der, and with his tears quench th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> fire of his ſparkling Anger; Hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Virtues Crown him with a ſtarry wreath of Glory, in which hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Wealth, which others count thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> greateſt Diamond, he Eſteems hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> leaſt ſpark, and if he rejoyce i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> them, it is only that by poſſeſſin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> them he is able to do good, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſuſtaine the bruiſed Reed; Him ſelfe is a Pearle above all hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="41" facs="tcp:50460:25"/>
+Riches, for in Poverty he appears moſt Glorious, his Wealth at beſt is but the Guilded Casket, which incloſes this Jewel, and the Shroud being gone, his Soul being open and uncovered, ſhines with grea<g ref="char:EOLhyphen"/>ter Glory and Luſter: In all Con<g ref="char:EOLhyphen"/>ditions he is content, and ſo in Rags injoys a Kingdom, and will rather fit down with his poor Pit<g ref="char:EOLhyphen"/>tance, then make the Backs of the Poor, the Ladder to climbe to the Gawdy Seat of Wealth. He thinks every Man Good, becauſe he is ſo Himſelf; chide him, if your re<g ref="char:EOLhyphen"/>proof be juſt, he will thank you; if unjuſt, his Innocence is his only Defence, and indeed an Impene<g ref="char:EOLhyphen"/>trable Armour, on which the Darts of Malice may Graze, but never Pierce: There is a Compo<g ref="char:EOLhyphen"/>ſed Calmneſs in his Soul, the Ele<g ref="char:EOLhyphen"/>ments Warr not with one another,
+<pb n="42" facs="tcp:50460:26"/>
+the Fire makes not the Water boyle, Choller juſtles not Mild<g ref="char:EOLhyphen"/>neſs away; but all the Pegs being wound up to their juſt height, his Soul like a well tun'd Inſtrument, ſtrikes an Harmony equall to that of the Sphears. He eſteems a mo<g ref="char:EOLhyphen"/>derate State beſt, and therefore like the humble Briar, hath choſen a middle Station; not ſo low that Contempt can ſtep upon him, nor ſo High, but that the Storms and Billows paſſe over his head. He is a Star of the firſt Magnitude; a Tree, which like thoſe in the <hi>Heſ<g ref="char:EOLhyphen"/>perian</hi> Garden bears Golden Ap<g ref="char:EOLhyphen"/>ples. A Noſe-gay, wherein his Ver<g ref="char:EOLhyphen"/>tue's like ſo many pretty Flowers ſend forth a Fragrant Sweetneſſe, and happy is ſhe whoſe Boſome i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> poſſeſt of ſo pleaſing a Poſy. He i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> never in better Company then when he is alone, for then will
+<pb n="43" facs="tcp:50460:26"/>
+his Soul commune with his God. He is knit unto his Friend by his Heart-ſtrings, and nothing but the Sword of Death can diſſolve the Gordian Knot. His life is a well Acted Comedy, which alwayes ends with a happy Exit. Death which to others ſeems ſo Grim to him, appears of a Smiling Coun<g ref="char:EOLhyphen"/>tenance, and that deadly Draught but a Spicy Cup. His good Name is a Pretious Ointment, a ſweet Flower which ſhall Bud in Eterni<g ref="char:EOLhyphen"/>ties Garden, and ever be a fragrant Odour in the Noſtrils of Poſterity. Laſtly, He is a Phaenix, it is rare to ſee two of his Kinde together, and out of his Funeral Aſhes ſhall ariſe, young and glittering with the Beams of Immortality and Glory.</p>
+               </div>
+               <div type="section">
+                  <pb n="44" facs="tcp:50460:27"/>
+                  <head>The Impious Man,</head>
+                  <p>IS a ſtrange Kinde of Monſter<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> made up of Swine, Goat, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Vulture. The Tavern is hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Church, his Miſtris the Golde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Calf, to which he dulier payes hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Devotion, then to his Maker. Hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Mouth is a Cannon, which he al<g ref="char:EOLhyphen"/>wayes keeps Charged with at Oath, and will out-goe any Can<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>noneer in the Celerity of Diſ<g ref="char:EOLhyphen"/>charge. He loves Mirth as hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> life, and cares not if he Dance a Jig to Hell. He is a weak un<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> man'd Fort; no Vice, but at firſt Battery, makes a Breach into his Soul; if Satan does but preſent him with a Cherry from his Mi<g ref="char:EOLhyphen"/>ſtris's Lip, or an Apple of her eye
+<pb n="45" facs="tcp:50460:27"/>
+he is as ſoon taken with the Beauty of them, as was <hi>Adam</hi> with his in Paradice, and never imagins it to be Forbidden Fruit, if he taſte <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hoſe Cherries in Laſciviouſneſſe. Before he could ſpeak, he could ſpeak Miſchief; before he could goe, he could run in the wayes of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in. His Heart by its hardneſſe, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hould be a Flint, and yet is none, for that hath Fire in it, but his not one ſparke of Grace. Yet if God in his Mercy cauſes any Streams of Righteouſneſs to ſlow out of him, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e renues his Miracles in the Wil<g ref="char:EOLhyphen"/>derneſſe; and brings Water out of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Rock. He is a ſtrange kinde of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oyle, in which though Vertues <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eeds be ſowne, will ſtill bring up Wilde Oats, a Medly of Wicked<g ref="char:EOLhyphen"/>neſſe, <hi>Pandoras</hi> Box was never fill'd with ſo many Evills. He has his Paradoxical cuſtome to repair
+<pb n="46" facs="tcp:50460:28"/>
+to, a Hot-houſe in the midſt of Summer, [as if he would practiſe Hell here on Earth] and that no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to heat him, but quench hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Flames; but alas it often prove<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> too hot for him, and he is Scorcht<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and by a Helliſh Fire too, and ſo comes home by Weeping Croſſe He riſes up early to Sin, and ſcorn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to be out-done by any man in miſ<g ref="char:EOLhyphen"/>chief, and ſo takes pains to pur<g ref="char:EOLhyphen"/>chaſe Deſtruction, and large ſtride<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to Hell. His Drunkenneſſe de<g ref="char:EOLunhyphen"/>priving him firſt of his ration<g ref="char:EOLunhyphen"/>al Soul, makes him a Beaſt, and then of his Senſes alſo, and ſo h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> becomes a meer Stock, and ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> this man thinks himſelf in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Right Way; but let him reſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> aſſured, that though we read o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Good Thief who at laſt ſtol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> into Heaven, yet never of any man that Stagger'd in thither; <hi>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                     <pb n="47" facs="tcp:50460:28"/>
+greedily feeds on the Fruits of ſin, and is raviſhed with their falſe ſweetneſs, although they are but Dainties dreſt by Hells Fire; He is made up of wiles, and whilſt he ſmiles every dimple is a pit of deſtruction, and every Syllable he ſpeaks a nooze to catch thee; he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s a ſlave to his Wealth, Satan detains him Priſoner in Golden Chains, and he is content with ſuch Fetters, and had rather injoy the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ompany of an Angel in his poc<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et, then in Heaven; but having <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y extortion wrung an Eſtate out <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f the very bowells of the Poor, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r by deceit increaſed his Store; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Worme growes proud, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>alks as if his head were above the Clouds, or knockt at the Battle<g ref="char:EOLhyphen"/>ments of Heaven, and every man muſt ſtrike ſaile to his pride, but whilſt he deceives his poor Neigh<g ref="char:EOLhyphen"/>bour,
+<pb n="48" facs="tcp:50460:29"/>
+at the ſame time Satan cheats him of his Soul. Thus in his proſperity he ſeems to have the heart of a Lyon, or out-rore the Thunder, but in miſery that of a Child, like a bladder he ſwell<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> with the leaſt puffe, and is down again with the leaſt prick; and yet ſometimes his paſſions ſo blind him, that the Waſp with an eage<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> fury will purſue an imaginary in<g ref="char:EOLhyphen"/>jury; his revenge muſt be writ in bloody Characters; but alas whereas by other ſins he goes by degrees, by this he oftentimes from the place of Combate, make<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> but one leap into Hell; He is an uſeleſſe drone, and ſpends the greateſt part of his life in Glut<g ref="char:EOLhyphen"/>tony and Drunkenneſſe, in Gay<g ref="char:EOLhyphen"/>eties and empty Vanities, and i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> may for faſhion-ſake, may ſend forth a few Prayers, and Ejacula<g ref="char:EOLhyphen"/>tions,
+<pb n="49" facs="tcp:50460:29"/>
+but they alſo are lame and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aggy wing'd, and never reach to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eaven; Thus he regardleſſe lets <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is Glaſſe run, as if his time were <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> no value, whileſt the Pious Man <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y ſpending it virtuouſly, eſteems <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd makes every grain of ſand a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>earle, and thoſe very pleaſures <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e imagines to injoy here, are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oth vaniſhing and imperfect; In <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e midſt of his delights, his con<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ience the bird in the breaſt, in<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ead of a ſweet Lullaby, ſings him <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſmall notes, interrupts his ſleeps, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd ſoure's his pleaſures; This is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is portion here, and without Re<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>entance he will be hereafter a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ire-Brand of Hell, the object of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Almighties Indignation, the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ceptacle of all thoſe Torments which the wrath of Incenſed Ma<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſty, and Juſtice can Inflict.</p>
+               </div>
+               <div type="section">
+                  <pb n="50" facs="tcp:50460:30"/>
+                  <head>The Good Woman,</head>
+                  <p>IS a white Rock, that Repells a Shocks of Temptations, brea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thoſe fiery waves, and turns the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> into froath; And as the pret<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Mary-Gold, will not turn it ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> nor open its leaves, to any oth<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Light, to any other Star, but on<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Sun; So this ſweet flower <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> all but her Huſband is ſhut and r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ſerved; he is the Sun to who<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> alone ſhe opens her leaves, and h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> embraces; her arms are chai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſtrong enough to keep her Hu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>band at home, and he is ſo tak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> with that pleaſing Captivity, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> when he conſiders how far t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Nectar of her kiſſes, ſurpaſſe h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſweeteſt wines, and the cherries <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> her lips the fruits of ſin, they e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ſily
+<pb n="51" facs="tcp:50460:30"/>
+perſwade him to forſake all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lewd ſociety. <hi>Columbus</hi> never diſ<g ref="char:EOLhyphen"/>covered ſuch Mines of Treaſure in the vaſt Univerſe, as are in this little World. She bluſhes at the hearing of an obſcene Speech, as if her Cheeks hung out their red flaggs of defyance, to ſuch a rude party.</p>
+                  <p>She is commonly ſilent, or at leaſt ſhe will be but the treble in the conſort, for low muſick, and a ſoft tongue, make alwayes the ſweeteſt Harmony; She is of an an humble ſpirit, and to all Cour<g ref="char:EOLhyphen"/>teous and Affable, the windy prai<g ref="char:EOLhyphen"/>ſes of flatterers cannot puffe her into pride, for beauty ſhe knows like the Glory of a Rain-bow, ſoon paſſes away, and that thoſe eyes which they compare to the Sun, are out-ſhined by the dwindling Beams of a farthing Candle; If a
+<pb n="52" facs="tcp:50460:31"/>
+ſtorm ariſe in her Huſbands breaſt as rain the winds, ſo one little ſhower of her tears will allay its bluſtering; her ſighs will puffe out the fire of his anger; ſhe oppoſes not his riſing fury, but counts it the beſt Victory, if as the <hi>Scythi<g ref="char:EOLhyphen"/>ans</hi> ſhe can conquer by retreating. Her Apparrel is decent, though not coſtly, ſhe can be fair without patches, and if her own native beauty be not charming enough to purchaſe her a Conſort, ſhe thinks that none but fooles will be taken with ſuch poor baits, for ſurely a good beauty, as well as good wine needs no Buſh; She ſeldome fixes her eyes on any man, leaſt ſome one be vanquiſhed, by continually diſcharging her darts from thoſe Chryſtal Quivers; neither will ſhe let thoſe ſubtill ſpies to wander, for the roving arrow, as well as the
+<pb n="53" facs="tcp:50460:31"/>
+directed ſhaft may chance to hit the mark; Her huſbands afflictions ſhe makes her own, and by a ſecret ſympathy ſeems to partake of the ſame griefs; he is her head, no wonder then, if ſhe be troubled when her head akes; She loves not to dally with the flames of luſt, nor play with Cupids ſhaft, for ſhe knows edge tooles are ſharp, and may cut her fingers.</p>
+                  <p>Tears are the Beads of her De<g ref="char:EOLhyphen"/>votion, and ſhe wooes heaven ſo Nobly, and with ſuch perſeve<g ref="char:EOLhyphen"/>rance, that ſhe will ſeldome let her God go without a bleſſing from him; She is up with the early Lark, and as that pretty Quiriſter when he firſt riſes from his bed of Graſſe, ſhe ſings ſome prayer or Ejaculation, and when her huſband riſes, it is like <hi>Phaebus</hi> full of bluſhes to ſee his <hi>Heſper,</hi> his
+<pb n="54" facs="tcp:50460:32"/>
+Morning Star, ſo duly uſher him to his taſke.</p>
+                  <p>She is a Caſket full fraught with Rich Jewels; when Satan ſhewed our Saviour all the Glories of the World, this little World ſurely was the greateſt Wonder, the greateſt Temptation; The ſaying proves falſe in her, that there is no Fortreſſe ſo ſtrong, but that an Aſſe laden with Gold may en<g ref="char:EOLhyphen"/>ter, for the Engliſh mens Angels can neither tempt her, nor their Crowns allure her, nor the French Piſtols ſhoot her Chaſtity dead; She is the Crown of her Huſbands joy, and it ſweetens his Labour to think when his courſe is done, and his work at an end, he ſhall go and reſt his wearied neck in his <hi>Theti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> Lap; As her life is ſweet, ſo whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſhe dies, ſhe expires like the <hi>Phae<g ref="char:EOLhyphen"/>nix</hi> all in ſpices, and leaves a per<g ref="char:EOLhyphen"/>fume behind her.</p>
+               </div>
+               <div type="section">
+                  <pb n="55" facs="tcp:50460:32"/>
+                  <head>The Wicked Woman,</head>
+                  <p>IS a Baſiliſke, for with her eyes ſhe will look thee dead, and as <hi>Archimedes</hi> Glaſſes were ſaid to burn Ships afar off, ſo her falſe Opticks often fire at a diſtance; At the firſt aſſaults of Luſt, ſhe bluſht, and wept, and her eyes bewail'd the ſad Conqueſts they had made, till her Lover came and wip'd away her tears, and whiſper'd his falſe ſtory in her eares, and ſhe was charm'd, and was willing firſt to be drawn by the Cords of Vanity, and then ſhe could run without drawing, and entice frail man to taſt of her Forbidden Fruit; So by degrees ſhe grew a proficient in Wickedneſſe, and at laſt ſhe committed ſin with
+<pb n="56" facs="tcp:50460:33"/>
+greedineſſe, and as of a Viper, al<g ref="char:EOLhyphen"/>wayes a Viper proceeds, ſo I uſe brought forth Murder, and thus as her face was tainted with a falſe fucus, ſo was her Soul with the blood of her Infant; She is a ſtrange kind of fortreſſe, that not onely yields without reſiſtance, but alſo ſues to be taken; She will out-vie Cupps with men, but whilſt ſhe Carouſes others healths, ſhe drinks away her own; Her body is often faire to a wonder, but by her wicked deeds ſhe ſeems to confirm the Opinion of the Moors, that there are white Devils; Her chiefeſt pleaſure is to catch young Birds and Fiſhes; but whereas in others the chiefeſt of their Art is in the ſubtil concealing of their ſnares, ſhe hopes to catch moſt, when ſhe moſt diſcovers hers; Her Locks are the lines, her bar'd
+<pb n="57" facs="tcp:50460:33"/>
+Breaſts, the Baits wherewith ſhe goes a Fiſhing, and hopes to catch ſome ſilly one with thoſe Fleſh-baits; ſometime in a moment ſhe catches her ſilly Prey; otherwhile like a cunning Angler, ſhe lets the wanton Frie ſport with the Bait, till they are taken in the Snare: Which having taken that which ſeems ſtrangeſt, is that contrary to others, ſhe only Strips them of their Skales, and ſo lets them goe; She is a ſtrange kinde of Butcher that ſells her own Fleſh, and that for leſſe then would buy a Calf; She is Loud and Stubborn, her Tongue is no ſooner heard in the Houſe, but like a Fatal Alarum Bell, it ſets the whole Family in an Uproar; With a thouſand Arts<g ref="char:punc">▪</g> ſhe indeavours to Hide and Prop the defects of Time, and Nature, but who will not judg that which
+<pb n="58" facs="tcp:50460:34"/>
+is ſo Be-patch't, a Ruinous Fabrick; She is a <hi>Salamander</hi> that lives in the Fire of Luſt, an Ordinary open to all comers; She may well be cal<g ref="char:EOLhyphen"/>led the Weaker Veſſel, he that relies upon her, Launches his Ho<g ref="char:EOLhyphen"/>nour in a Leaking Barke; She is ſurely an Athieſt, for Pleaſure is her God. <hi>Bride-well</hi> her Hell, and the Conſtable or Marſhal, all the Devils ſhe fears; Her Favour is more Fatal then her Malice, for that at moſt can but Kill thy Body, but her Smiles will perſwade thee to deſtroy thy own Soul; the burnings of Granado's, is a gentle and Lambent Fire, to that of her Eyes; She perſwades the ſilly Youth to turn his Land into Gold, till at laſt, ſhe leaves him nothing but the Water of Repentance and Tears; Her Strength and Stomack ſeem beyond Belief, for ſhe will
+<pb n="59" facs="tcp:50460:34"/>
+swallow two Acres of Land for a Breakfaſt, and carries two more upon her Back; When ſhe ſayes ſhe is your Servant, it is no Com<g ref="char:EOLhyphen"/>plement; She is a common Pud<g ref="char:EOLhyphen"/>dle, wherein every Stallion comes and Quenches his Thirſt: Laſtly, It is but a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſt Judgment of God upon her, that ſhe who would live in a hot houſe here, ſhould live Eternally in one hereafter.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb facs="tcp:50460:35"/>
+               <pb n="61" facs="tcp:50460:35"/>
+               <head>THE FOUR Quarters OF THE YEAR.</head>
+               <epigraph>
+                  <q>
+                     <l>Quid non in ſpecies ſecedere quatuor annum,</l>
+                     <l>Aſpicis, aetatis peragentem imitamina noſtrae.</l>
+                  </q>
+                  <q>
+                     <bibl>
+                        <hi>OVIDIUS.</hi>
+                     </bibl>
+                     <l>Nam tener &amp; lactens pueri<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſimillimus avo,</l>
+                     <l>Vere novo eſt, tunc herba nitens, &amp; roboris expers,</l>
+                     <l>Terget &amp; inſolida eſt, &amp; ſpe, delectat agreſtes,</l>
+                     <l>Omnia tunc florent, florum<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> coloribus almus,</l>
+                     <l>Ludit ager.</l>
+                  </q>
+               </epigraph>
+               <p>THE Glorious Preparation which Dame Nature makes,
+<pb n="62" facs="tcp:50460:36"/>
+declares the Springs approach, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſeaſon wherein ſhe layes in, and i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> delivered of her wonderful Births<g ref="char:punc">▪</g> And the pretty Flower no ſoone<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> peeps out of the Boſome of it<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mother, but it is Enamel'd with Pearly drops, a true Emblem o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy Infancy; for when thou wer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> firſt brought foorth, thy Eye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> diſtill'd with Tears, the forerun<g ref="char:EOLhyphen"/>ners of thy future Miſerie; No in this onely doth it reſemble thee but as the Flower, is ſubject to be cropped by Beaſts, to be Blaſte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with Winds, ſo is it in every one<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> power that paſſes by, to Raviſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy Life from thee; Afflictions an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sickneſſe can Diſroab thee of a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy Beauty, and ſee thou wert n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſooner Born, but thou offendeſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Flower ill proſpers, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pretty Lilies droops its wea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> head, loaden with Dew and Tears
+<pb n="63" facs="tcp:50460:36"/>
+Darkneſſe and Affliction ſurround thee, but canſt thou but Repent, as the Comfortable Beams of the Morning Sun, dries up the Dewy Purles on the Lillies Cheeks; ſo will the Sun of Righteouſneſſe wipe away all Tears from thy eyes, and Diſſipate thoſe Clouds of Darkneſſe: It is thy Sins which Ecclipſes the Sunſhine of his Glo<g ref="char:EOLhyphen"/>rious Face. But perhaps thou mayſt aske me, which of the Trees or the Flowers of the Field I would have thee Reſemble? Not the Ce<g ref="char:EOLhyphen"/>dar, for that is the Ambitious Man, and beſides it bears no Fruit; Nor the Birchen Tree, for that is the Tyrant, Gods Scourge; whoſe Crimſon hue, ſhews it Delights in Blood. Nor the Lilly, for that is the Hipocrite, Faire without and Unſavory within; But it is the Roſe I would have thee imitate, let
+<pb n="64" facs="tcp:50460:37"/>
+its Bluſhing Cheeks teach thee Modeſty, its Prickles Watchful<g ref="char:EOLhyphen"/>neſſe, and alwayes to ſtand upon thy Guard; the expanding its Leaves at the Suns approach, thy Willingneſſe to Receive thy Savi<g ref="char:EOLhyphen"/>our; but above all, Matchleſſe are its inward Vertues, ſuch would I have thee, thy inward Graces, like that ſweet Flowers, to ſurpaſſe thy outward Beauties. In this ſeaſon all Nature ſeems to Rejoyce, the Fields are Diapred with Fragrant Flowers, <hi>Neptune</hi> Smiles, not one Wrinckle in his Front; The Lillies are Cloathed with Beauty above <hi>Solomons</hi> Royalty; and thou leaſt thou ſhouldſt be left Naked; Intseat of thy Saviour, and he will Cloath thee with the Robes of Righteouſneſſe; let Penitent Tears be thy Pearls, make Brace<g ref="char:EOLhyphen"/>lets of thy Folded Armes, and
+<pb n="65" facs="tcp:50460:37"/>
+thus attired; Oh! how lovely wilt thou be in Gods ſight? not <hi>Solomon,</hi> or the Lillies of the Field, did ever parallel thy Glory.</p>
+               <p>Oh teach thy Infant ſteps to walk in the wayes of thy God; How fragrant is the budding Roſe? how ſweet will the perfume of thy Infant piety be to him? the very Birds by their pretty warbling, the purling Brooks by their ſweet murmurs, ſeem to caroll their praiſes to their Maker; and wilt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hou be more ingrateful then theſe? Oh! <hi>Remember thy Creator in the dayes of thy Youth;</hi> Chriſt is in Love with little ones, and bids <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem come unto him; Ah! he will embrace thee in his Everlaſt<g ref="char:EOLhyphen"/>ing Arms, and cheriſh thee in his own Boſome; Do but thy indea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our, and he will Guide and Sup<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ort thy weak feet, and thou wilt
+<pb n="66" facs="tcp:50460:38"/>
+highly need his aide, for the young Bird is eaſily enſnared, and Satan will lay his baits for thee, ſwee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wines, and luſcious delicates, to pleaſe thy taſte, the charming laye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of lacivious Syrens, to lull the aſleep, ſhew thee the Roſes of thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cheeks, and Lillies of their hand<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and then aske thee if thou an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> afraid of a few flowers; But ah<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſly from them, for under tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> flowers lurks a Serpent. <hi>
+                     <g ref="char:V">Ʋ</g>lyſſe</hi> gifts cannot be ſafe to <hi>Troy,</hi> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> theſe are but his Gins, which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thou art not wary will ſoon en<g ref="char:EOLunhyphen"/>trap thee; but thou wilt ſay, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> match is unequal, a child again<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuch a potent Enemy; Oh! b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thy Chriſt will gird thee wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtrength to cope with him; an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> then again thou diſpaireſt becau<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy luſts are untamed, and perhap<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doſt ſay, what can a green hat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="67" facs="tcp:50460:38"/>
+Apple pleaſe my Saviours taſt, who <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s altogether ſweetneſs? Oh! but he can ſweeten the bitter waters of <hi>Marah;</hi> the ſowre Apple by time grows ſweet and mellow, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> clouded morne, may prove a glo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ious day.</p>
+               <div type="section">
+                  <head>Summer, OR YOUTH.</head>
+                  <epigraph>
+                     <q>
+                        <bibl>
+                           <hi>OVIDIVS.</hi>
+                        </bibl>
+                        <l>Tranſit in aeeſtatem poſt, ver robuſtior Annus,</l>
+                        <l>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>itque valens Juvenis, neque enim <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>obuſtior aetas</l>
+                        <l>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lla, nec uberior, nec quod magis ardeat ulla eſt.</l>
+                     </q>
+                  </epigraph>
+                  <p>THe Sun and thou are climbing towards the <hi>Meridian;</hi> The
+<pb n="68" facs="tcp:50460:39"/>
+Birds by this time have choſen themſelves Mates, &amp; this being the greateſt Act to felicity in this life; I can find no Nobler Example to fol<g ref="char:EOLhyphen"/>low then the Dove, that Emblem of innocent Love, looks not to the Richneſſe and Gayety of her mates feathers, but to the ſweet com<g ref="char:EOLhyphen"/>poſure of its limbs, and the char<g ref="char:EOLhyphen"/>ming effects of his ſweeter nature for him ſhe will reject the gaudy Peacock; Theſe two harmleſs one<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> will ſweetly ſit and bill, whilſt the ravinous Vulture is engaged i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> wounds and quarrells; take hee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> leaſt being too covetous, thou ſel<g ref="char:EOLhyphen"/>leſt thy content for a little droſſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and it may be to one who may prodigally ſpend it; chuſe but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> pious and loving Conſort, and b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> aſſured thou haſt a Pearle worth the Worlds Treaſure; And no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> being joyned in Hymens bonds
+<pb n="69" facs="tcp:50460:39"/>
+let the twining Vine teach thee, how indiſſolvable the Marri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Knot is, for it will ſooner ſuffer its arm to be rent off, then <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> be ſe<g ref="char:EOLhyphen"/>parated from the ſtrikt Embrace of its Beloved Elm; So muſt thou <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eave all for thy Spouſe, let nei<g ref="char:EOLhyphen"/>ther the Iron teeth of time, or ne<g ref="char:EOLhyphen"/>ceſſity be able to diſſolve that knot; But methinks, I ſee thee with ad<g ref="char:EOLhyphen"/>miration gaze on the great ones of the World, and ſigheſt at thy own leſſe Glorious Condition, but grieve not becauſe thou art none of thoſe Loftier Cedars; true, thou <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rt low, but the leſſe ſubject to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>torms and Thunder, the high Mountain is barren, tis the low Val<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ey, and Humble Heart, that brings <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oorth the beſt Fruit; And yet I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ould have thy Contemplations <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>are to Heaven; The Lark builds <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er Neſt on the ground, yet when
+<pb n="70" facs="tcp:50460:40"/>
+ſhe ſings, ſhe Towers above the Clouds, as if ſhe diſdained Earth; Earth is unworthy the Larks Har<g ref="char:EOLhyphen"/>mony and thy thoughts, thou wilt not need the wings of a Dove, on the wings of Contemplation, thou wilt out-ſtrip the Lark, and ſooner reach Heaven; But let Heaven be the object of thy Meditations, which ſurpaſſes the Earth as much in Excellency, as in immenſity <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Earth hath Flowers for its pave<g ref="char:EOLhyphen"/>ment, and Heaven Stars, or rather thoſe Stars are the knotty ends o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Heavens Tapiſtry; Ah! how Glo<g ref="char:EOLhyphen"/>rious then muſt thoſe Manſions be whoſe ſuperficies is ſo beautifull<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> but all this cannot perſwade thee to forſake thy darling World, thy wedges of Gold faſten thee to it, the arms and treſſes of Laciviou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Strumpets enchain thee, and thou unmindful of Heaven, carried on
+<pb n="71" facs="tcp:50460:40"/>
+with thy Youthful heat, ſwimmeſt in a Sea of pleaſure; this Stage of thy life ſeems delightfull to thee, ſtrewed with Perfumes and Flow<g ref="char:EOLhyphen"/>ers, and thy Glaſs fill'd with Gol<g ref="char:EOLhyphen"/>den Sands, and thou with the Ma<g ref="char:EOLhyphen"/>rigold, in pride advanceſt thy glit<g ref="char:EOLhyphen"/>tering Crown, but poor bloſſome, whence ſprings this vain pride, is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it from thy Beauty? Alas, that will ſoon fade, and no Roſe will ſooner wither then that in thy Cheeks; or from thy proſperous Felicities? But how many ſorrows meet each minute to interrupt them, which may ſoon turn thy quiet calm into a ſtorm? Or is it from thy Valour, and frequent Vi<g ref="char:EOLhyphen"/>ctories ore thy Foes? Oh! that were better turned againſt thy ſelf, and thou ſhalt obtain more Glory by ſubduing thy ſelf, the little World, then by being Conque<g ref="char:EOLhyphen"/>rour
+<pb n="72" facs="tcp:50460:41"/>
+of the great One; Have a care that neither Proſperities, not delight ſooth thee into a ſecurity; How often is the pretty Nightin-Gale, even whilſt ſhe ſits, and Carolls foorth her ſweet Layes, kill'd by the Archer; And we ſee many in the midſt of their jollity, carried aloft on the wings of plea<g ref="char:EOLhyphen"/>ſure, ſhot by Death, and tumble from the height of their mirth in<g ref="char:EOLhyphen"/>to the grave; Oh! forſake the World, and all her empty delights, ſuck no longer her falſe breaſts, her milk is but ſugar'd poiſon, thou art now a man, and at theſe years, it is time for thee to be wained.</p>
+               </div>
+               <div type="section">
+                  <pb n="73" facs="tcp:50460:41"/>
+                  <head>AUTUMN, OR Manhood</head>
+                  <epigraph>
+                     <q>
+                        <bibl>
+                           <hi>OVIDIUS.</hi>
+                        </bibl>
+                        <l>Excipit Autumnus poſito ferrore Juventae,</l>
+                        <l>Maturus mitiſ<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> inter juvenem<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> ſenem<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan>,</l>
+                        <l>Temperie medius.</l>
+                     </q>
+                  </epigraph>
+                  <p>GOne are thy Mirthſome days, thy Summer is done, till now thou wert a young Sprig, and the ſweet Breath <hi>Zephyr</hi> onely wanton'd with thy tender Leaves, thou haſt danc't out thy Youth in Loves and Pleaſures, but now it
+<pb n="74" facs="tcp:50460:42"/>
+is time for thee to bear Fruit; thou mayeſt trifle away no more hours, but as thy Years, ſo let thy Faith increaſe; indeavour that the Seeds of it may take firme Root in thy Soul; intreat the Sun of Righte<g ref="char:EOLhyphen"/>ouſneſſe to ſhine on it, omitt not ſometimes to water it with a few Repentant Tears, and no doubt it will Proſper; And do not think to purchaſe Heaven by ſitting ſtill; how doth the little <hi>Emmet</hi> toil be<g ref="char:EOLhyphen"/>fore ſhe poſſeſſes her ſtore; the Hus<g ref="char:EOLhyphen"/>bandman purchaſes his encreaſe with the ſweat of his Brows; Hea<g ref="char:EOLhyphen"/>ven like the <hi>Heſperian</hi> Garden is guarded by a watchfull Dragon, and no coming to the golden Fruit, nor entring this Paradiſe, till thou haſt Vanquiſhed him: The Sheep yield their Silver Fleece to their Carefull Paſtor; The Springs and Rivers pay their Tribute to the
+<pb n="75" facs="tcp:50460:42"/>
+Sea; and wilt thou return no Fruit? either be barren or bear evil Fruit; Oh no! thou art now grown a goodly tree, thy boughs are exten<g ref="char:EOLhyphen"/>ded to Heaven, and canſt now not only be good thy ſelf? but do good unto others; Oh let the parched Roſe, the Sun-burnt Traveller, enjoy the comfort of thy ſhade; Let the Mate-deprived Dove, the Mournfull Widdow pearch under thy Roofe; Untwiſt no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the weak Wreathing Jvy from thy Armes, but ſupport the Poor and Needy; but perhaps thou thy ſelf art Poor and Thirſty; and ſeeſt the Joyful swain Feaſt on the Fruits of his Happy Labour; O do thou but ask of thy Saviour, and he will give thee of the Fountains of ever Living Waters, Co<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſtial Manna, and the Bread of Life to ſatisfie thy Hunger; but ſome ſay the Meat is
+<pb n="76" facs="tcp:50460:43"/>
+ſweeteſt that is neareſt the Bone, and ſo thou mayeſt deſire one: Well then, take a Deaths Head, for out of it, a Pious Man will pick Heavenly Food. Oh here is a Feaſt indeed! that great Shepheard will not let his Sheep to want; for he hath promiſed they ſhall feed among the green and fat Paſtures, and that he will lead them to the cooling Streams; from him thou receiveſt all that thou haſt, 'tis he Communicates all thoſe Bleſſings, all thoſe Beauties and Graces thou Enjoyeſt; It is the Sun beams that Damaſk the Apples Cheeks, and it is the Sun of Righteouſneſſe that makes thy Soul bluſh for its Sins; White and Red are the Com<g ref="char:EOLhyphen"/>pounds of an Earthly Beauty, and White and Red Innocence, and Pious ſhamfac'dneſs, are the chief<g ref="char:EOLhyphen"/>eſt of the ſouls perfections. Chriſts
+<pb n="77" facs="tcp:50460:43"/>
+Beloved Spouſe was White and Ruddy, thou of thy ſelf art Poore and Naked, if he do not Enrich thee; But thy <hi>Autumn</hi> is done, the trees begin to ſhed their leaves, and thou thy hairs; and now thou beginſt by piece meale to fall into the Grave; thou haſt but one ſtrain more to the top of thy Life, and that a Rotten one too; Age that ſubtile Thief ſteals ſwiftly on thee; Learn therefore willingly to ſub<g ref="char:EOLhyphen"/>mitt thy ſpirit into thy Saviours hands, like the Corne, to fall and Kiſs the Feet of him that cuts thee off, canſt thou Murmur at him that doth but fell the tree to tranſplant it into a better ſoile; but above all things be prepared for thy end, that when thy houre comes, thou mayeſt fall like Fruit, full ripe for Heaven.</p>
+               </div>
+               <div type="section">
+                  <pb n="78" facs="tcp:50460:44"/>
+                  <head>WINTER, OR Old Age.</head>
+                  <epigraph>
+                     <q>
+                        <bibl>
+                           <hi>OVIDIUS.</hi>
+                        </bibl>
+                        <l>Inde ſenilis Hyems tremulo venit horrida paſſu,</l>
+                        <l>Aut ſpoliata ſuos, aut quos habet alba capillos.</l>
+                     </q>
+                  </epigraph>
+                  <p>THat Seaſon is come that co<g ref="char:EOLhyphen"/>vers the ground and thy Head with Snow; the Lil<g ref="char:EOLhyphen"/>lyes have loſt their Milky hue; the Trees have nothing to hide their naked Armes; the Springs are Congealed, their Waves no more wanton with the Shoare, nor thy
+<pb n="79" facs="tcp:50460:44"/>
+Blood in thy Veins. See World<g ref="char:EOLhyphen"/>lings, ſee; What is bocome of the Idoll thou ſo much Adoreſt? Where are all thoſe charming Beauties which ſhin'd in thy Face? that Face which ſome have called a little Heaven, wherein thy Eyes like two Suns Diſplai'd their Beams; but now alas thy Heaven is Clou<g ref="char:EOLhyphen"/>ded, thy Suns are eternally Ecclip'd, and nothing remains of thy beau<g ref="char:EOLhyphen"/>tiful Fabrick, but the gaſtly Ruines, ſo Fraile is Serene Beauty; thy Life at longeſt was but a Span, but how ſhort a ſpace of that ſpan haſt thou to Live? Old Wood ſoon Blazes out, ſoon will thy ſhorten<g ref="char:EOLhyphen"/>ed Tapour ſink into its Urne; now or never is the time for thee to be Fruitfull; if thou prodigally wa<g ref="char:EOLhyphen"/>ſteſt this thy laſt inch of thy Ta<g ref="char:EOLhyphen"/>pour, thou art irrecoverably loſt; The Lillie Withers, but with the
+<pb n="80" facs="tcp:50460:45"/>
+next Spring wil appear in a freſher beauty; but if thy Sun ſet in a Cloud, it will never more ariſe. See, ſee the Heavens weep for thee, and ſeem to ſhew thee thy duty, the violent blaſts that <hi>Boreas</hi> ſends from his ſwollen Cheeks, intimate that thy ſighs ſhould be fervent; Its diſtilling in plentifull ſhowers, that thoſe eyes which in thy youth were Luſtfull flames, ſhould now be trickling Fountains; Oh! quench thoſe Flames with Penitent Tears; haſt thou miſpent thy time, yet diſpaire not, if thou wilt return, there is mercy for thee; thoſe tears are pearls of vallue enough to re<g ref="char:EOLhyphen"/>deem thy time? What if time have Furrowed thy Face; Plow<g ref="char:EOLhyphen"/>ed Land the better bears Fruit; but methinks I hear thee ſay, What muſt Trees bear Fruit in Winter? Oh yes! Man is a Tree muſt bear
+<pb n="81" facs="tcp:50460:45"/>
+in all the Seaſons, eſpecially in the Winter of his Age, and ſhall ei<g ref="char:EOLhyphen"/>ther for being fruitful be tranſ<g ref="char:EOLhyphen"/>planted into Heavens Garden, there eternally to flouriſh, or elſe for his Barrenneſſe, be hewen down for the Devils Fire; But alas! thy heart is colder then the Seaſon, the curled ſtream is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ockt up in Ribs of ice, and that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s frozen; Oh! beg of the Sun of Righteouſneſſe to ſhine on it, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e will diſſolve thy Icy heart, and make it flow into ſtreams of Righ<g ref="char:EOLhyphen"/>teouſneſſe; Time hath ſilver'd thy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aire, do thou ſilver thy time; and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hough in thy Youth, like the ſil<g ref="char:EOLhyphen"/>ver Swan, thou wert a ſtranger to Harmony, yet at the laſt thou muſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ither like her ſing melodiouſly, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>owle in Hell for ever; Summon <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ogether all thy ſtrength, all that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hou haſt of pious in thee, that
+<pb n="82" facs="tcp:50460:46"/>
+thou mayeſt expire like the dying Tapour in a Glorious Blaze; Oh let the ſweeteſt be at the bottome, if the ſand of thy Youths-Glaſſe were of Gold, that of thy old age is powder of Rubies, every grain<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of it is worth a Univerſe, and doe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thou ſo ſlightly value this Ineſti<g ref="char:EOLhyphen"/>mable Jewel; Is this a time fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thee to dance luſtful meaſures when every minute thou maye<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> dance into thy Grave? when lik<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> an aged tree, with every wind tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tottereſt, when every ſickneſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſhakes thy very heart-ſtrings, tak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> heed for if Death catch thee dan<g ref="char:EOLhyphen"/>cing; the flying bird is the faireſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mark, and that black Archer wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> not neglect his advantage, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> thou mayeſt caper into Hell.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="83" facs="tcp:50460:46"/>
+               <head>Hiſtorical <hi>Applications.</hi>
+               </head>
+               <epigraph>
+                  <q>
+                     <l>Quocumque tempore non cogitaveris</l>
+                     <l>Deum, puta illud tempus amiſiſſe.</l>
+                  </q>
+               </epigraph>
+               <div n="1" type="section">
+                  <head>1.</head>
+                  <p>
+                     <hi>HEnry</hi> the fifth King of <hi>England,</hi> in his Younger years was a moſt Diſſolute Prince, addicted to Robberies, and many other lewd Practiſes, which made the world gueſſe by theſe pretty Tyrannies, thoſe High ones, he would after<g ref="char:EOLhyphen"/>wards commit; But this Crooked Twig, prov'd as Goodly an Oake, as ever grew in <hi>Brittains</hi> Forreſt, For when he came to be King, he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orſook both them, and all thoſe of
+<pb n="84" facs="tcp:50460:47"/>
+his Companions that would not turn over a new leaf with him.</p>
+                  <p>I have ſpent the beſt part of my Youth in pleaſures, Oh! that I could now with this good King, devote the reſt of my dayes, unto the ſervice of my God; When I was a Child, I did like a Child, but now I am a Man, I will do like a Man; then I was Ignorant, but now I have reaſon to Conſider, that all things here below are Vanity <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Therefore will I leave off my Drunkenneſſe, to taſt of the Foun<g ref="char:EOLhyphen"/>tains of ever Living Waters, in compariſon of which, the beſt o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Wines, are as the bitter waters o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Marah;</hi> I will forſake my Glut<g ref="char:EOLhyphen"/>tony to taſt of the Bread of Life; My Chriſt ſhall be my Riches, will contemn the Worlds <hi>Deli<g ref="char:EOLhyphen"/>lahs,</hi> that I may enjoy him for my Spouſe; is there any beauty in
+<pb n="85" facs="tcp:50460:47"/>
+them? Oh! but he is more lovely, the choiceſt often thouſand; The faireſt earthly Beauties, in compa<g ref="char:EOLhyphen"/>riſon of Him, are but blear-eyed <hi>Leahs;</hi> tis he only is the lovely <hi>Rachel,</hi> that deſerves our ſeaven Years, yea all our lifes Service.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2</head>
+                  <p>THe Fabulous Poets report of <hi>Ixion,</hi> that in his Luſtful heat, thinking to embrace an armfull of pleaſure, in the enjoyment of fair <hi>Juno,</hi> was deceived, and found it but a miſt.</p>
+                  <p>Thus fooliſh man purſues, fleet<g ref="char:EOLhyphen"/>ing delights for realities, and per<g ref="char:EOLhyphen"/>ſwades his heart that he ſhall long enjoy them; He graſps the miſt in his armes, but alas, he will find that their glittering gayeties will diſappear; His ſhining Taper will out in a ſnuffe, his pleaſing dream will paſs away, his Syrens Song
+<pb n="86" facs="tcp:50460:48"/>
+will end, his <hi>Juno,</hi> his Darling plea<g ref="char:EOLhyphen"/>ſure will vaniſh into ſmoak, and prove at laſt ſowre like the Grapes of <hi>Sodom,</hi> or like thoſe Apples which are ſaid to turn into aſhes if but touched; ſo will they, and we ſhall have nothing left of them, but their Cinders to increaſe out Torments in Hell.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>3.</head>
+                  <p>
+                     <hi>CAeſar</hi> after his Victories, and Glo<g ref="char:EOLhyphen"/>rious Triumphs, was murdered in the Senate-Houſe; <hi>Herod</hi> in the midſt of his Glory, eaten up by Worms; <hi>Swedelands</hi> Mirrour cut off by Death, in the ſtrength of his Years.</p>
+                  <p>Alas! what a vain thing is man a meer bubble, a walking ſhaddow, one blow cuts his thred in twain, one little bullet ſtops his breath, one ſickneſſe pulls him into his Grave; it is moſt certain, that we
+<pb n="87" facs="tcp:50460:48"/>
+ſhall all take up our Lodging in Deaths darke Retiring-room, the Grave; but nothing more uncer<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ain then the time, when? Oh! that we could therefore be always <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bout that taske which we have here to doe, like the <hi>Heliotropium,</hi> ſtill turning towards our ſun, Our Sun of Righteouſneſſe: Thus if we live whereas the Waftage of the Wicked out of this world, is Stor<g ref="char:EOLhyphen"/>my and Tempeſtuous, and are rou<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed by the Horrours of never dy<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng Torments; our ſhall be calm and gentle: Our Deaths will prove but a ſhort ſleep, and when we a<g ref="char:EOLhyphen"/>wake, we ſhall finde our ſelves in <hi>Abrahams</hi> boſome, incompaſſed with incomparable Felicities.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>4.</head>
+                  <p>MEn whileſt they are in this World, do but play the Indu<g ref="char:EOLhyphen"/>ſtrious Bee, always buzzing about,
+<pb n="88" facs="tcp:50460:49"/>
+ſeeking ſome Flower, ſome occa<g ref="char:EOLhyphen"/>ſion by which they may encreaſe their Stock: their chiefeſt Garden is the Exchange, to which they in Numbers reſort, there it is they meet with moſt bargains, and from thence with loaded thighs they fly unto their Hives or Houſes.</p>
+                  <p>Thus ſhould the Life of every Chriſtian be, could we be but as wiſe for Heaven as we are for the World; with the <hi>Emmet,</hi> carry but one grain of corn, do but one Pious deed a day; this day draw a line of Chriſtian Charity, that of Obedience, and another day of Hu<g ref="char:EOLhyphen"/>mility, we ſhould ſoon draw the whole Image of our saviour in our ſouls; and at the years end, finde our ſpiritual treaſure encreaſed to a maſſy heap. Heavens Exchange-Royal is the Church, for there we may hear glad tidings of our Coe<g ref="char:EOLhyphen"/>leſtial
+<pb n="89" facs="tcp:50460:49"/>
+affairs; there we ſhall be ſure to meet with good bargains; it is there only that the Exchange never falls, but is always at a high Rate: for a few odd pence be<g ref="char:EOLhyphen"/>ſtowed in Alms, we ſhall receive innumerable Treaſures; for a few trickling penitent Tears, Ineſtima<g ref="char:EOLhyphen"/>ble Jewels; and for a few old rags given to the needy, the Cloathing of a Glorious Immor<g ref="char:EOLhyphen"/>tality.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>5.</head>
+                  <p>
+                     <hi>ZEuxis</hi> a Famous Painter, Pour<g ref="char:EOLhyphen"/>traying a Vine and a Man by it on the ſame Tablet, the Grapes were ſo exquiſitely drawn, that the de<g ref="char:EOLhyphen"/>ceived Birds flew and peckt them; yet by this we may ſee, that though Art may Imitate, yet it is farr ſhort of Nature; for had he drawn the Man ſo well to the Life, they would have been more afraid of
+<pb n="90" facs="tcp:50460:50"/>
+him, then allured by the Grapes; Art may Pourtray a Roſe of a freſh Carnation, but compare its Beau<g ref="char:EOLhyphen"/>ty to a reall one, of how faint a die it will ſeem to the others native Crimſon.</p>
+                  <p>And yet how many have we in this age who daube over the works of Nature, and think to borrow a Beauty from a few colours: but poor ſouls, do they think to mend Gods work? hath thy God com<g ref="char:EOLhyphen"/>manded thee, <hi>Not to make unto thy ſelf any Graven Image, or the like<g ref="char:EOLhyphen"/>neſſe of any thing,</hi> and doeſt thou make one of thy ſelf? could you but ſee how like unskillfull Painters, you marr what you would mend. Tis Satan preſents you with a falſe mirrour, wherein that ſeems faire, which indeed is deformity it ſelf; did you but ſee your ſelves in Vertues Glaſſe; you
+<pb n="91" facs="tcp:50460:50"/>
+would confeſſe that a <hi>Moore</hi> with his Darke-lanthorn face, is a farr more Reall and Lovely Beauty then yours: Chriſts Spouſe went not thus diſguis'd, he will never know you with ſuch a v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>zzard on, neither ſhall thoſe have any ſhare in his Victory, who wear and ſerve under the Devils Colours.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>6.</head>
+                  <p>
+                     <hi>SInon</hi> was a Crafty <hi>Grecian,</hi> moſt expert in the Art of diſſembling: This <hi>Sinon</hi> by his Deceit, and Feign'd tears perſwaded the Cre<g ref="char:EOLhyphen"/>dulous <hi>Trojans</hi> to draw in the Wooden Horſe, and with it their Ruine.</p>
+                  <p>Every Fair ſhew muſt not be truſted, for <hi>Cain</hi> could friendly parley with his Brother, and ſlay him; And <hi>Judas</hi> come with a Haile Maſter in his mouth, and be<g ref="char:EOLhyphen"/>tray his Lord: Man buſies himſelf
+<pb n="92" facs="tcp:50460:51"/>
+to invent miſchief, and with diſ<g ref="char:EOLhyphen"/>ſimulation covers his ſnares; His heart is crooked and full of guile, a forge of iniquity, a mint where<g ref="char:EOLhyphen"/>in lies are coyn'd to deceive the Innocent; He ſings thee aſleep, as <hi>Mercury</hi> did <hi>Argus,</hi> that he may ſlay thee; In the one hand he car<g ref="char:EOLhyphen"/>ries a Roſe, wherewith ſmiling in your face, he pleaſingly tickles your noſe; in the other a Dagger to ſtab thee to the heart: In thee therefore Oh my God will I put my Confidence, for Juſt and True are thy wayes, and all thy paths are Righteous.</p>
+               </div>
+               <div n="7" type="section">
+                  <head>7.</head>
+                  <p>IT is ſaid of <hi>Demoſthenes,</hi> that be<g ref="char:EOLhyphen"/>ing to deliver an Oration to the People in the Market-Place, he had very few Auditors, whereup<g ref="char:EOLhyphen"/>on he whooping, whiſtling, and acting the Fool, the People preſt
+<pb n="93" facs="tcp:50460:51"/>
+in great numbers to ſee him, when he rebuking their folly, got them by this device to ſtay and hear his Eloquent Oration.</p>
+                  <p>And alas! how thin are our Churches now a dayes? How few come to hear Gods divine Ora<g ref="char:EOLhyphen"/>tours, and were every one to give a ſhilling or two in Alms when they come to Church, as they do to ſee a Stage-play, I fear our Tem<g ref="char:EOLhyphen"/>ples would have fewer Auditors then they have; whereas at a Co<g ref="char:EOLhyphen"/>medy, the thronged Theaters al<g ref="char:EOLhyphen"/>moſt crack with numbers. Thus can we lay out our money, for that which is not Bread; and mens perverſe hearts are ſo ſtubborne, that ſcarce any perſuaſions can prevaile to draw them from this folly: Fools thus to diſpiſe Coele<g ref="char:EOLhyphen"/>ſtial Manna, for dirty crums, and the ſacred word of a God, for a
+<pb n="94" facs="tcp:50460:52"/>
+few humane inventions.</p>
+               </div>
+               <div n="8" type="section">
+                  <head>8.</head>
+                  <p>
+                     <hi>THerſites</hi> was of ſuch a curriſh diſpoſition, that he was always barking at thoſe who had done him no injury; he could not ſee <hi>
+                        <g ref="char:V">Ʋ</g>lyſſes,</hi> but he muſt term him Coward; no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Menelaus,</hi> but he muſt beat him with his broken Ribb, with his Wives diſhonour.</p>
+                  <p>Juſt thus have I ſeen ſome ſit ſnarling all the day at others; they whet their Tongues to pierce the ſides of the Innocent: they cannot ſee a man paſſe by without caſting ſome of their filth upon him; but give me, Oh my God, a quiet Con<g ref="char:EOLhyphen"/>ſcience! the beſt Antidote againſt their poiſon, then ſhall I injoy a continual Feaſt within me, al<g ref="char:EOLhyphen"/>though their Malice ſeek the de<g ref="char:EOLhyphen"/>ſturbance of my Peace; and at length, their Calumnies ſhall re<g ref="char:EOLhyphen"/>turn
+<pb n="95" facs="tcp:50460:52"/>
+upon their own heads; That pitch wherewith they intended to blurr my Innocency, ſhall ſtick upon their own fingers; then ſhall I Triumph in my Innocency, but they be aſhamed of their hatred and folly.</p>
+               </div>
+               <div n="9" type="section">
+                  <head>9.</head>
+                  <p>WE read, that <hi>Aeſops</hi> Cock find<g ref="char:EOLhyphen"/>ing a Pearle, contemned it for one Barley Corn: Chriſt is our Pre<g ref="char:EOLhyphen"/>tious Pearle; but alas! how many reject him for a little worldly gain? How many will ſell their Saviour for a leſſe price then did <hi>Judas?</hi> but oh my God! grant that I may in<g ref="char:EOLhyphen"/>deavour, yea give all I have to purchaſe this Pearle, then ſhall I prove a happy Merchant; for none but thoſe who have this Pearle ſhining in their Boſomes, can enter Heaven. That is the Sacred Badge by which St. <hi>Peter</hi> knows who he
+<pb n="96" facs="tcp:50460:53"/>
+is to let enter thoſe Everlaſting Gates. Let Worldling ſcrape this Dunghill World, but I, when I have got this Pearle, my Chriſt, have attained ſuch riches, to which theirs is but Droſſe and Dung.</p>
+               </div>
+               <div n="10" type="section">
+                  <head>10.</head>
+                  <p>
+                     <hi>DIogenes</hi> was a man ſo much deſ<g ref="char:EOLhyphen"/>piſing Riches, y<hi rend="sup">t</hi> being proferd great Wealth by <hi>Alexander,</hi> he bid him ſtand out of the Sun-ſhine, as being a comfort, that all his Riches could not bring him; He choſe a Tub for his Pallace, a Wooden diſh was all his Houſhold-ſtuffe, and Water and Herbs his chiefeſt Suſtenance: Though ſome may take this for a Tale of a Tub; yet ſurely it is a great example of a Generous and Moderate life, which without doubt was full of a perfect Tranquility. His minde was calm, not like the Merchants toſſed
+<pb n="97" facs="tcp:50460:53"/>
+with every Wind more then his Ship, nor alarum'd with Thieves ſeeing he had nothing but his Wooden diſh to looſe; and Chri<g ref="char:EOLhyphen"/>ſtians may be aſhamed to be ſo farr out-gone by a Heathen in Morral Vertue: but yet we finde this <hi>Dio<g ref="char:EOLhyphen"/>genes,</hi> whoſe diet was ſo ſpare to deſire the unchaſte embraces of a <hi>Lais;</hi> Ah! how then doth the Pampring of our bodyes now a dayes put oyle to the flame, and increaſe our natural luſtful deſires; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t is a worthy ſentence of <hi>Heſiod,</hi> that half is better then the whole; one diſh will ſerve nature better then ten, for with our many Cour<g ref="char:EOLhyphen"/>ſes, we courſe away our Health; though Bread and Water be all my Food, as long as the Sun of Righ<g ref="char:EOLhyphen"/>teouſneſſe ſhines on me, I will not envy <hi>Sardanapalus</hi> all his daints of the Sea and Land.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="98" facs="tcp:50460:54"/>
+               <head>Scripture <hi>Applications.</hi>
+               </head>
+               <p>This Book of the Law ſhall not depart out of thy Mouth, but thou ſhalt Meditate therein Day and Night.</p>
+               <div n="1" type="section">
+                  <head>1.</head>
+                  <p>UNmatchable was the ſtrength of <hi>Sampſon,</hi> yet could he not<g ref="char:EOLhyphen"/>withſtand the charming allure<g ref="char:EOLhyphen"/>ments of <hi>Delilah;</hi> but by her trea<g ref="char:EOLhyphen"/>chery, his ſo admired ſtrength was brought to nought.</p>
+                  <p>
+                     <pb n="99" facs="tcp:50460:54"/>How carefull therefore ought we to be, to eſchew the company of theſe ſubtill charmers, to ſtop our ears to theſe <hi>Syrens</hi> Harmony: doth their pleaſing Warbling Ra<g ref="char:EOLhyphen"/>viſh thee? Oh! conſider their Luſtfull Layes will lull thee a ſleep to thy ruine: Doeſt thou admire them for their Lilly hands? Know that therewith they will lead thee to all uncleanneſſe: Perhaps their Golden Locks may enſnare thee, but be aſſured, that every curle is a chain to hold thee to thy ſin: Or if their twinkling eyes have bewitch<g ref="char:EOLhyphen"/>ed thee, conſider them as falſe Lights, as the fatall Funeral piles of thy honour and chaſtity; thy Saviour had not whereon to lean his Head, and wilt thou reſt on a downy Bed with thy lewd Minion: Oh no! but reject theſe Delilah's, ſince they like <hi>Sylla</hi> and <hi>Charybdys,</hi>
+                     <pb n="100" facs="tcp:50460:55"/>
+miſerably Shipwrack all thoſe that approach them.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2.</head>
+                  <p>
+                     <hi>NAaman</hi> Captain of the Hoſt of <hi>Aſſyria</hi> was a Leaper, who was Cured by <hi>Eliſha,</hi> by being dipt ſea<g ref="char:EOLhyphen"/>ven times in the River <hi>Jordan.</hi>
+                  </p>
+                  <p>Moſt Leaprous is my ſoul, waſh it therefore, Oh my Saviour! in the <hi>Jordan</hi> of thy blood; but are not <hi>Abana</hi> and <hi>Pharphar</hi> Rivers of <hi>Da<g ref="char:EOLhyphen"/>maſcus,</hi> better then the Streams that flow from thee? Oh no! they may waſh the filth from our bo<g ref="char:EOLhyphen"/>dies, but never from our ſouls. Tis only the Rivolet of thy blood can make us perfectly clean: Oh! be thou my Jeſus, or the Phyſitian to my ſick ſoul, and heal me; and for my Cure, I will not return thee money, or coyne, nor offer up un<g ref="char:EOLhyphen"/>to thee Sheep, or Oxen; but Pray<g ref="char:EOLhyphen"/>ers, Thanks, and Tears; Sacrifices
+<pb n="101" facs="tcp:50460:55"/>
+moſt acceptable unto thee; In<g ref="char:EOLhyphen"/>cenſe which ſmells ſweeteſt in thy Noſtrills.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>3.</head>
+                  <p>VVHen the <hi>Iſraelites</hi> abode in <hi>Shittim,</hi> the Daugh<g ref="char:EOLhyphen"/>ters of <hi>Moab,</hi> allured then to com<g ref="char:EOLhyphen"/>mit Whoredoms; and thence we ſee a ſad ſtory of <hi>Cozby,</hi> ariſe; who was ſlain in the luſtfull embraces of her Lover, in the ſight of all the Congregation.</p>
+                  <p>And yet how many Daughters of <hi>Moab</hi> have we in theſe dayes; Ah! how many <hi>Delilahs,</hi> which wear the Sun of Darkneſſe in their Faces, and I fear to in their hearts; who preferr a white Cheek or a Cherry Lip, before the beauty of Holineſſe it ſelf; and which covet no other Heaven, but their Lovers Armes. Fools thus for a moment of fading pleaſures, to purchaſe
+<pb n="102" facs="tcp:50460:56"/>
+everlaſting Torments: For let them know, their Patches do not Beautifie their Faces, but ſet ſo many black ſpots upon their Souls; their Anointing and Painting, cau<g ref="char:EOLhyphen"/>ſes them to ſlide the quicker into Hell; and their Pouders and Per<g ref="char:EOLhyphen"/>fumes, do but make them a dain<g ref="char:EOLhyphen"/>tier bit for Divels.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>4.</head>
+                  <p>VVHen <hi>Goliah</hi> Encountred <hi>David,</hi> he was Armed with a Helmet of Braſſe, and a Coat of Maile, with a Sphear like a Weavers Beam; but on the con<g ref="char:EOLhyphen"/>trary, <hi>David</hi> comes in the Name of the Lord of Hoſts, the God of the Armies of <hi>Iſrael;</hi> and thus with a Sling and a Stone only, he Slays this mighty <hi>Phyliſtine.</hi>
+                  </p>
+                  <p>Victory is in the hand of God, and in vain is the ſtrength of man without his aſſiſtance: if God be
+<pb n="103" facs="tcp:50460:56"/>
+on thy ſide, let not the number of Enemies diſmay thee, for he can defend his <hi>Eliſha</hi> with Charriots of fire, and ſave his <hi>David</hi> both out of the Paw of the Lion, and out of the Hand of the <hi>Phyliſtine:</hi> He that comes in the name of the Lord of Hoſts, is ſufficiently armed a<g ref="char:EOLhyphen"/>gainſt all Encounters; thus Guar<g ref="char:EOLhyphen"/>ded, I'le not fear the World, the Fleſh, no nor Satan himſelf, for when the Tempter comes, I will meet him with my Saviours an<g ref="char:EOLhyphen"/>ſwer; <hi>[It is written, Thou ſhalt wor<g ref="char:EOLhyphen"/>ſhip the Lord thy God, and him onely ſhalt thou ſerve;]</hi> This, this is the way with theſe Weapons, with <hi>David</hi> I will ſtrike the Monſter in the forehead and ſlay him.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>5.</head>
+                  <p>SInfull <hi>Soddom</hi> ſinned againſt God, and Juſt God Puniſh<g ref="char:EOLhyphen"/>ed <hi>Soddom;</hi> But what was
+<pb n="104" facs="tcp:50460:57"/>
+wretched <hi>Sodoms</hi> ſin, which hath not been in our habitations? what Crime did miſerable <hi>Gomorrah</hi> perpetrate, which we have not committed? <hi>Niniveh</hi> in forty days, could Repent at the Preach<g ref="char:EOLhyphen"/>ing of one <hi>Jonas,</hi> and we not in fourty years, though hundreds thunder daily in our ears, the em<g ref="char:EOLhyphen"/>minent Judgments of God upon us. Purples and Silks are the Sack-cloath, and Powders and Perfumes the Aſhes which we Repent in. Ah! our God, we have juſtly de<g ref="char:EOLhyphen"/>ſerved, that thou ſhouldſt make our Land a place of dead mens Sculls, an Iſland encompaſſed with her own Blood. Once, what Land more Righteous then <hi>England?</hi> and alas! now who more ſinfull? ſhe was once the Daughter of Na<g ref="char:EOLhyphen"/>tions, the joy and perfection of the whole Earth; but now her
+<pb n="105" facs="tcp:50460:57"/>
+Beauty is departed from her, ſhe is black, but no more comely: Lord we were once thy Darlings, as dear unto thee as the Apple of thine eye; Oh! therefore do not leave <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is nor forſake us, but draw us with the Cords of thy Love, that we may once more run after thee; Poure the Oyle of thy Mercy into our Souls, and heal us, that thou again mayeſt be our God, and we thy People.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>6.</head>
+                  <p>WHen I call to mind my Chriſts Death, I cannot but admire the goodneſs of my Saviour, that he the Son of the King of Kings, ſhould ſuffer his precious ſide to be pierced with a Spear; His Sacred Temples, thoſe beds of ſweeteſt Spices to be rent and torn, and all to preſerve me from deſtruction: But muſt no leſs
+<pb n="106" facs="tcp:50460:58"/>
+then the blood of the King of Hea<g ref="char:EOLhyphen"/>ven be the Balm to heal our wounded Souls? Shall my Jeſus ſhed forth more drops of Blood then I ſhed tears? Shall he be Cru<g ref="char:EOLhyphen"/>cified for me, and I not Crucifie my Sins? Ah no! I will not be in<g ref="char:EOLhyphen"/>grateful to ſuch a Saviour, to ſuch a ſweet Redeemer; But I will bath my ſelf in Repentant Tears, I will weep day and night becauſe of my ſins, my mouth ſhall continually Praiſe my ever Bleſſed Redeemer.</p>
+               </div>
+               <div n="7" type="section">
+                  <head>7.</head>
+                  <p>WE Read, that though the Prodigall had ſpent his Wealth in Riot, yet when he came to his Father with the con<g ref="char:EOLhyphen"/>feſſion of his fault in his mouth, he not onely pardons him, but kills a fatted Calf, for joy of his return, and receives him gladly.</p>
+                  <p>Men cannot be readier to ſin,
+<pb n="107" facs="tcp:50460:58"/>
+then God to forgive a penitent Sinner; Art thou turn'd Prodigal and haſt forſaken thy Heavenly Fathers Houſe, ſpent thy Coeleſtial Treaſure by turning his Grace into Wantonneſſe? Yet if thou wilt at length return, Oh! he will Re<g ref="char:EOLhyphen"/>ceive thee with Embraces of Love, and kiſſe thee with the kiſſes of his mouth; yea there will be rejoycing in Heaven, and it will be a day worthy an Angels joy, wherein a Son is new born to the King of Glo<g ref="char:EOLhyphen"/>ry: Diſpair not then, Oh my Soul! to find pardon at the hands of thy Mercifull Father, it is in his power alone to make a Blackamore white; nay wert thou ſtai'd as much as was <hi>Manaſſes</hi> that made the Temple ſlow with innocent blood; if thou wilt but waſh thy wounds with penitent tears, he will poure the oyle of his mercy into them, and heal thee.</p>
+               </div>
+               <div n="8" type="section">
+                  <pb n="108" facs="tcp:50460:59"/>
+                  <head>8.</head>
+                  <p>THe poor Widdow caſting but two Mites into the Treaſury, was more praiſed by our Saviour, then thoſe Rich men which caſt in plentifully of their Abundance.</p>
+                  <p>It is not the largeneſs of Almes, but the freeneſs of heart by which it is given; not the length of Prayer, but its fervency that is pleaſing unto God; The ſhort but humble Petition of the Publican was ſooner accepted, then the long vain Glorious Prayer of the Pha<g ref="char:EOLhyphen"/>riſee; and the Widdows two Mites before the Rich mens great gifts; let the Wealthy caſt in of their Abundance, but I, though I cannot with <hi>Solomon</hi> Sacrifice thouſands of Oxen, yet will I endeavour to offer up unto thee my heart; This Lord is the Mite I give thee, give thee dId I ſay? Alas! that was
+<pb n="109" facs="tcp:50460:59"/>
+thine before, and I muſt pay thee Tribute with thine own Coyne; But I have ſo defac't the Image of the Great <hi>Caeſar</hi> of Heaven, which was ſtamped on it, that thou wilt ſcarce know it for thine own; yet Lord if I can ſincerely tender it to thee, even this diſpiſed Mite thou wilt not contemn.</p>
+               </div>
+               <div n="9" type="section">
+                  <head>9.</head>
+                  <p>CHriſt going to ſee <hi>Jeruſalem,</hi> Rode thither not in one of <hi>Caeſars</hi> Glittering Charriots, but on an Humble Aſſe; The King of Kings, he that Rides in Triumph on the Clouds, he that Sits mount<g ref="char:EOLhyphen"/>ed on Cherubins, dained to Ride on an Aſſe, and ſurely a better Tri<g ref="char:EOLhyphen"/>umph then any of the <hi>Caeſars;</hi> and by this we may ſee how far above all men he was meek, whoſe Tri<g ref="char:EOLhyphen"/>umph the ſubject of our greateſt pride, was more humble then o<g ref="char:EOLhyphen"/>thers
+<pb n="110" facs="tcp:50460:60"/>
+humbleſt actions; and where<g ref="char:EOLhyphen"/>fore did he thus debaſe himſelf, but to teach us Humility? what do we ſee in our selves to be proud of? Is it our frailty, or becauſe we are born of the duſt? How good<g ref="char:EOLhyphen"/>ly a thing it is to ſee a poor worm, a clod of duſt, clad in the pomps of the ſilk worms ſpoils, to vaunt it ſelf? Oh! our God give us hum<g ref="char:EOLhyphen"/>ble Souls; Pride and Ambition puffs up the heart of man, and the path to Heavens gate is too narrow for the ſwelling ambitious Soul to walk in; thoſe who in their own conceits are goodly <hi>Caedars,</hi> in Gods are but diſpiſed Shrubs, fit ſtubble for Hells Fire.</p>
+               </div>
+               <div n="10" type="section">
+                  <head>10.</head>
+                  <p>HOly <hi>Peter</hi> by that Excellent Sermon of his Crucified Sa<g ref="char:EOLhyphen"/>viour, converted thouſands to the Faith.</p>
+                  <p>
+                     <pb n="111" facs="tcp:50460:60"/>Great <hi>Orpheus,</hi> who with the Muſick of thy tongue, didſt not only make Trees, and Stones, but very Beaſts to dance; Thoſe Breſts which were Barbarous, and Raging like a Tempeſtuous Sea, thou madeſt ſmooth as the brow of a Cherubin: Thy Saviours words are now true, thou art be<g ref="char:EOLhyphen"/>come a Fiſher of Men, and haſt ta<g ref="char:EOLhyphen"/>ken no leſs then three thouſand at a draught; If this be ſo, what then is the reaſon, that inſtead of ha<g ref="char:EOLhyphen"/>ving three thouſand converted at a Sermon, I fear we have three thouſand Sermons, and ſcarce one converted? Have the Diſpenſers of the Word now a dayes leſs skill in Angling for Souls, then this Bleſſed Fiſher? Oh no! ſurely it is the hardneſs of our hearts, which were they not more obdure then Stones, the Hammer of the Word
+<pb n="112" facs="tcp:50460:61"/>
+would break them; were we not exceeding ſecure, thoſe Sons of thunder would waken us, not dea<g ref="char:EOLhyphen"/>fer then Adders, thoſe Sacred Charmers would Charm us.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>OCCASIONAL <hi>Applications.</hi>
+               </head>
+               <p>Vel bonas cogitationes alat animus, vel ſtatim malas extinguat.</p>
+               <div n="1" type="section">
+                  <head>
+                     <hi>1.</hi> On a Withered Roſe.</head>
+                  <p>THis Flower in the Gayeties of her Youth, was Freſh and Glittering like a New Married Bride; but being Coy, and Self-conceited, She defended her ſelf
+<pb n="113" facs="tcp:50460:61"/>
+from all thoſe that would crop her, with her prickles; At laſt time, blaſting her Orient hue, ſhe is re<g ref="char:EOLhyphen"/>jected of all, and ſtands in a corner unregarded, bedewing her Cheeks each Morn for her former folly: Thus Lord in the pride of my youth have I diſdained thee, thou haſt woed me till thy locks were wet with the dew of Heaven, thou dideſt promiſe to tranſplant me in<g ref="char:EOLhyphen"/>to thy Garden, water me with thy tears, and nouriſh me under the ſhaddow of thy wings; Oh! what a happy flower had I then been, but I like a ſullen Roſe ſtubbornly de<g ref="char:EOLhyphen"/>nyed, Crucified thee afreſh, and prickt thy fingers: I knew Lord that the Offering of the firſt Fruits were moſt pleaſing unto thee, that the blooming Roſe, and early morning virtues, ſmelt ſweeteſt in thy noſtrills; Yet have I continued
+<pb n="114" facs="tcp:50460:62"/>
+in ſin, whilſt I was able to ſin, and now return unto thee becauſe I can ſin no more; Whilſt my Tapour was long, and its flame ſhining as the Lamp of Heaven; I ſpent my Light in Satans Court, and now come to burn my Snuff in thy Pa<g ref="char:EOLhyphen"/>lace; Oh! that my head were wa<g ref="char:EOLhyphen"/>ters, and my eyes Fountains of tears, that I might weep night and day for my Youths follies; Oh! how juſtly may I fear that thou wilt refuſe Satans leavings, that becauſe in my Youth I rejected the things that did belong unto my peace, that now they are hid from my eyes: Is a wrinckled Beauty a fit Spouſe for the King of Glory? Will he inhabit Ruines? But Lord thou art merciful, if our Return be hearty, we can never come too late unto thee; therefore will I not diſpair to be admitted, amongſt
+<pb n="115" facs="tcp:50460:62"/>
+that Bleſſed Poſy of Flowers, which thou wilt place in thine own Boſome.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>
+                     <hi>2.</hi> The Fly in the Candle.</head>
+                  <p>THis Fly, and Ambitious <hi>Icarus,</hi> ſoaring too nigh its Sun, the Candle, ſcorches its wings, and ſo periſhes.</p>
+                  <p>Thus too many poor Chriſtians dallie with Hell, and nibble too long till they are taken with the ſnare, they deem the day far off, and themſelves ſecure, though at the brink of the Burning Lake; they take an <hi>Ignis Fatuus</hi> for their Guide, and never conſider that it leads, unto Pitts or Precipices; With the Fly, the Light of the Candle, Luſts flames ſeem pleaſing
+<pb n="116" facs="tcp:50460:63"/>
+to them, but they are unmindfull that they will burn them: Thus miſerable wretches buzzing too nigh the fire their wings are ſcorched, and they periſh; too much Sun ſhine, too many Plea<g ref="char:EOLhyphen"/>ſures ſo blind their eyes, that they cannot ſee their danger, and ſo are precipitated into the Pit.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>
+                     <hi>3.</hi> On a Blotted Paper.</head>
+                  <p>PAper whilſt fair ſerves for ma<g ref="char:EOLhyphen"/>ny good uſes, but being once blotted, is not fit to have Cha<g ref="char:EOLhyphen"/>racters upon it, but onely to ſup<g ref="char:EOLhyphen"/>ply ſome ſervile Occaſion, or the Fire.</p>
+                  <p>Hath not God Created moſt of us a fair ſheet, pure and without blemiſh? and ſhall our pride com<g ref="char:EOLhyphen"/>maculate
+<pb n="117" facs="tcp:50460:63"/>
+our faces with patches; every patch we wear is a blur in the fair ſtory of our lives? and where do we think there is ſpace for God to ſet his Impreſſions, and Characters upon us, to mark us out for his, being already blotted, and full of the Devils ſtamps; Our bodies are the Temples of the Holy Ghoſt, and ſhall we thus Soil them? Oh no! for God will never dwell in ſuch defiled lodgings, Chriſt will never own us for his, ſeeing the mark of the Beaſt in our Fore<g ref="char:EOLhyphen"/>heads; But that Immaculate Lamb will ſeparate ſuch ſpotted Goates from his unblemiſht Sheep, with a depart from me you workers of Iniquity, I know you not.</p>
+               </div>
+               <div n="4" type="section">
+                  <pb n="118" facs="tcp:50460:64"/>
+                  <head>
+                     <hi>4.</hi> The Sow in the Mire.</head>
+                  <p>A Brutiſh Nature will alwayes act accordingly, nothing can perſwade a ſilly Swine from its naſty Mire, nay were a Bed of Doves Feathers ſet before it, it would rather chuſe to wallow in its filth, then repoſe in it, although it often meets with a ſtone which moleſts its imaginary reſt.</p>
+                  <p>What a true Emblem of a world<g ref="char:EOLhyphen"/>ling is this? for oh! how it tickles his fancy to wallow in the Mire of ſin? Earth is his delight, he is al<g ref="char:EOLhyphen"/>wayes tending to the Ground his thoughts, his Meditations are all Earthly, as if his Creator had not made his countenance erected, but groveling downwards like theſe
+<pb n="119" facs="tcp:50460:64"/>
+brute Beaſts: He will not be with<g ref="char:EOLhyphen"/>drawn, although he often meets with a ſtone, and his dainties have too ſoure a ſauce, for he cannot laugh heartily but the tears will ſtand in his eyes; Thus the beſt of Earthly Felicities have a tart fare<g ref="char:EOLhyphen"/>well, yet will he not forſake them, but prides himſelf in his ſports, and like the Swine, becauſe he ſees them not, he thinks himſelf Beau<g ref="char:EOLhyphen"/>tifull; But the wiſe-mans eyes ſee how vilely he is bedaubed: Lord we are all vile and filthy, Oh! do thou waſh us in thy Sons Blood, and then though we are never ſo unclean, we ſhall be white as Snow.</p>
+               </div>
+               <div n="5" type="section">
+                  <pb n="120" facs="tcp:50460:65"/>
+                  <head>
+                     <hi>5.</hi> On the whipping of a top</head>
+                  <p>THe oftner the Child ſtrikes the Top, the better it ſpins, but if the ſtroke be omitted, of it ſelf it ceaſeth to go, if too violent it over-turns it.</p>
+                  <p>Thus Lord is it with us, as long as thy Rod of Affliction lies on us, we go and walk the better in thy wayes; the more ſtripes thou giveſt, the more prayers ſend we up unto thee; But often when thou ceaſeſt ſcourging of us, then we ceaſe glorifying of thee: But oh! my Saviour remember the ſmart of thy own Stripes, and ſo have pitty on mine; Conſider Lord, what a powerfull Arm ſets on the blow, thou needeſt not whet thy Sword
+<pb n="121" facs="tcp:50460:65"/>
+to deſtroy a broken and bruiſed Reed; but chear up, Oh my Soul! thy Prayers are heard; me thinks I ſee my Jeſus Mediating for me, and ſmiling in his Fathers Face, in<g ref="char:EOLhyphen"/>terpoſes his hand betwixt every blow; thou haſt ſuch an Advocate, as cannot, will not he denied; when he undertakes thy ſute, thou mayeſt boldly preſume of Pardon.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>
+                     <hi>6.</hi> On a Fleet of Ships in the Night.</head>
+                  <p>SEe with what a nimble ſecurity the Fleet glides through the Boſome of the deep, though Dark<g ref="char:EOLhyphen"/>neſſe ſurround it, and Rocks on each ſide threaten Deſtruction; guided onely by the skill of the Pilot, and the little light in their Admirall.</p>
+                  <p>
+                     <pb n="122" facs="tcp:50460:66"/>Our Saviour that Bleſſed <hi>Pilot,</hi> hath made the moſt perfect diſco<g ref="char:EOLhyphen"/>very of the new <hi>Jeruſalem</hi> unto us; and if we will but follow his courſe, we ſhall finde ſufficient Light in him to guide us; and who can doubt of a Proſperous Voyage, having ſuch a Pilot: canſt thou fear Storms, when both the Wind and the Sea obey him; or Pyrats, when he hath already carried a<g ref="char:EOLhyphen"/>way that grand Pyrat the Devill, captive in Chains. Oh my Jeſu! Thou Coeleſtial <hi>Palinurus,</hi> do thou ſteer, for thou onely canſt do it, this crazy Barke of my Soul, Se<g ref="char:EOLhyphen"/>curely through all Enemies, by all Rocks, by <hi>Scylla</hi> and <hi>Charybdys</hi> the Devill and the Fleſh, till it arrive at Heaven, the Saints <hi>Indies;</hi> where is ſuch Treaſure, as Eye hath not ſeen, Eare hath not heard of, neither hath it entred into the Heart of Man to conceive.</p>
+               </div>
+               <div n="7" type="section">
+                  <pb n="123" facs="tcp:50460:66"/>
+                  <head>
+                     <hi>7.</hi> On the dropping of the Eaves.</head>
+                  <p>VVOnderful are the Effects of theſe little drops of Water, for they falling on a Stone, not onely ſoften it, but wear it a<g ref="char:EOLhyphen"/>way.</p>
+                  <p>Lord, I have a Flinty, Rocky Heart; Ah! do thou let fall the Drops of thy Grace and ſoften it, till it bow's in Obedience unto thee; What Heart ſo Stubborn, which the Diſtillations of thy Mercy cannot make pliable. But yet alas! we ſee to our ſorrow, that though thy Mercies come un<g ref="char:EOLhyphen"/>to ſome, rather like Showers then by Drops, yet are they not at all
+<pb n="124" facs="tcp:50460:67"/>
+Mollified, but rather Hardned in their Obſtinacy towards thee; <hi>Stony ground, Barren Souls, which ſuch ſweet ſhowers cannot make fruit<g ref="char:EOLhyphen"/>full;</hi> for every little favourable blaſt puffs them up, and they think their Cauſes muſt needs be Juſt be<g ref="char:EOLhyphen"/>cauſe they Proſper; but let them not deceive themſelves, for they are but Exalted with wofull <hi>Ca<g ref="char:EOLhyphen"/>pernaum,</hi> to the Heavens; that their fall may be the greater into Hell.</p>
+               </div>
+               <div n="8" type="section">
+                  <head>
+                     <hi>8.</hi> On a Ship-Wrack.</head>
+                  <p>POore Paſſengers in a Storm, being Ship Wrackt by the Fu<g ref="char:EOLhyphen"/>rious Sea; know not where to turn in their Diſtreſſe, but unto the ſame Rock, which was the cauſe of their Deſtruction.</p>
+                  <p>
+                     <pb n="125" facs="tcp:50460:67"/>Lord, thy Waves and thy Bil<g ref="char:EOLhyphen"/>lows have gone over me; Oh! whither, whither ſhall I turn but unto thee? Lord, I know that if thou doeſt lead me through the Wilderneſs Hungry and Thirſty, thou canſt Rain down Manna from Heaven, and draw Water out of the Rocks for me, if one of thy Hands is arm'd with a Rod, in the other thou haſt the Balm of <hi>Gile<g ref="char:EOLhyphen"/>ad;</hi> thou Lord art the ſtrong Tow<g ref="char:EOLhyphen"/>er of <hi>Iſrael,</hi> and the Rock of <hi>Jacob;</hi> under the Shaddow of thy Wings I ſhall Reſt ſecure: the Winds may blow, and the Seas ſwell, but all their Rage ſhall prove but Froth: he that relies on any other defence truſts to a Fort of Sand, which the leaſt winde ſcatters; tis thou Lord alone, art able to deliver my Soul out of the deep Waters.</p>
+               </div>
+               <div n="9" type="section">
+                  <pb n="126" facs="tcp:50460:68"/>
+                  <head>
+                     <hi>9.</hi> The Caſtle.</head>
+                  <p>MAn is a Fortreſſe, Beleaguerd All his Life with Armies of innumerable ſins, and Satan is their Captain-General. His Forces are devided into three Squadrons; The firſt is compoſed of Scarlet Troops, and under theſe, fight Blood-thir<g ref="char:EOLhyphen"/>ſtineſſe. Revenge, and Murder; and theſe commonly take the For<g ref="char:EOLhyphen"/>treſſe by Storme. His ſecond Squa<g ref="char:EOLhyphen"/>dron hath black Enſignes, under which fight Diſpair, and he gives a furious Aſſault; Next comes Co<g ref="char:EOLhyphen"/>vetouſneſſe, who ſeeks to Bribe and Betray the Fortreſſe, and with theſe are all other deeds of Dark<g ref="char:EOLhyphen"/>neſſe; but his third Squadron have White Enſignes, and under theſe,
+<pb n="127" facs="tcp:50460:68"/>
+are all catching Pleaſures and Al<g ref="char:EOLhyphen"/>lurements; Ambition, Fame, Pride, Riot, and Laſciviouſneſſe: 'Tis theſe that come with the white Flag of Truce, and yet mean War; tis theſe that ſeem to be the leaſt conſiderable Troops, and yet the moſt to be feared; tis theſe lay all the Ambuſhes, with theſe are his Artillery, and that is Woman; out of the Loop-holes of her eyes, ſhe diſcharges her murderers; this is the fatal Flame that ſets the whole Fortreſſe on fire, and beſides theſe, that he may not omitt any thing on his part, he hath intelligence within, even thy own thoughts; thou thy ſelf art foe to thy ſelf, and Satan beats thee with thy own Weapons; but that which ſhews the height of his Policy is, that he will be ſure to ſtorm the Fort in the Weakeſt place: but do thou Jeſu
+<pb n="128" facs="tcp:50460:69"/>
+ſtand in the breach, and repell him back; do thou Man the Caſtle with Aſſurance and Conſtancy; Strengthen Faith, that it may keep its Ground; cauſe Repentance to open the Flood-gates of his Eyes, and drown its Foes; and thus ſhall the Siege be raiſed, and thou re<g ref="char:EOLhyphen"/>main Conquerour and Faithfull Souldier to the King of Heaven, who will reward thy Victory with a Wreath of Glory.</p>
+               </div>
+               <div n="10" type="section">
+                  <head>
+                     <hi>10.</hi> The Ship.</head>
+                  <p>THis World is a Sea, Man is the weak Barke that is toſſed in that Reſtleſſe and Stormy Ocean; our hands are two of the Oares that Row us thither, and every good Deed we Act, we fetch a
+<pb n="129" facs="tcp:50460:69"/>
+Stroak towards Heaven; and the Almighties Spirit is the gentle Blaſt that fills our Sails, for with<g ref="char:EOLhyphen"/>out it we are becalm'd. He that ſails with the Tide glides towards Hell; <hi>Orphans</hi> ſighs, are the winds that drive him ſwiftly on, he hath often a merry Gale, and he ſeldom thinks on the ſadneſſe of his Voy<g ref="char:EOLhyphen"/>age, till he almoſt arrive at the Diſmal Haven of Death; and though God the Searcher of Hearts, who knows if he liv'd lon<g ref="char:EOLhyphen"/>ger, whether he would ſteer a new courſe, may pardon him; yet this is dangerous, and he often Miſera<g ref="char:EOLhyphen"/>bly Periſhes. But he that will ſteer in a direct courſe to Heaven, muſt Saile againſt the Tide, and he muſt always be Rowing; for whileſt he is idle, the Stream carries him backwards; he will often meet with a thouſand Impediments in
+<pb n="130" facs="tcp:50460:70"/>
+his Voyage. Though Hiſtorians doubt whether there be any <hi>Sy<g ref="char:EOLhyphen"/>rens,</hi> yet in this Sea he will meet with many. Riches is the Fatall <hi>Remora,</hi> which ſticks to the bot<g ref="char:EOLhyphen"/>tome of the Veſſel and hinders its courſe; but above all, he muſt have a care he doth not Shipwrack himſelf againſt the White Rock of a Womans Breaſt. And beſides theſe, he ſhall meet with other Storms, which will drive him back again; but he muſt Wraſtle with theſe difficulties, and tug againſt the Stream, and if he chance to o<g ref="char:EOLhyphen"/>vercome the Tempeſt; <hi>Zephyrus</hi> gently filling his Sailes, and he en<g ref="char:EOLhyphen"/>joys Peace and Tranquillity; let him conſider, that after the wan<g ref="char:EOLhyphen"/>ton play of <hi>Porpoſes</hi> there comes a Storm, and therefore repair the Breaches which the Tempeſt hath made; hath Diſpair enterd? caſt
+<pb n="131" facs="tcp:50460:70"/>
+it out and reſume thy Anchor of Hope; and at laſt thy Voyage ſhall be Proſperous, and thy Barke ſhall unlade its Pretious Fraight in the Boſome of its Saviour, that Great Factor of Souls; who will Treaſure it in his Coeleſtial Store-houſe, and binde it up amongſt his Jewels to all Eternity.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:50460:71"/>
+            <head>A Table of the ſeveral Sub<g ref="char:EOLhyphen"/>jects in this Book.</head>
+            <list>
+               <item>HEaven and Earth, a Dialogue, where<g ref="char:EOLhyphen"/>in Chriſt Convinces the Soul that all thoſe Honours, Gifts and Pleaſures, which it imagines to injoy here, are to be found in him with advantage, <hi>page 1</hi>
+               </item>
+               <item>A preparation to the Lords Supper, <hi>p. 25</hi>
+               </item>
+               <item>Character of the Pious Man, <hi>p. 37</hi>
+               </item>
+               <item>Character of the Impious Man, <hi>p. 44</hi>
+               </item>
+               <item>Character of the Good Woman, <hi>p. 50</hi>
+               </item>
+               <item>Character of the Wicked Woman, <hi>p. 55</hi>
+               </item>
+               <item>The four Quarters of the Year;</item>
+               <item>And <hi>Firſt</hi> of Spring, or Infancy, <hi>p. 61</hi>
+               </item>
+               <item>
+                  <hi>Second,</hi> Of Summer, or Youth, <hi>p. 67</hi>
+               </item>
+               <item>
+                  <hi>Third,</hi> Of Autumn, or Man-hood, <hi>p. 73</hi>
+               </item>
+               <item>
+                  <hi>Fourth,</hi> Of Winter, or Old Age, <hi>p. 78</hi>
+               </item>
+               <item>Ten Hiſtorical Applications.</item>
+               <item>
+                  <hi>1. Henry</hi> the Fifth; By his Example to forſake this Worlds Vanities, <hi>p. 83</hi>
+               </item>
+               <item>
+                  <hi>2. Ixions</hi> Cloud, or the vanity of Earthly pleaſures, <hi>p. 85</hi>
+               </item>
+               <item>
+                  <hi>3 Caeſars, Herods,</hi> and <hi>Swedlands</hi> Kings death, or the Frailty of Mans Life, <hi>p. 86</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:50460:71"/>
+                  <hi>4.</hi> The Exchange; Or Divine Trafick, <hi>p. 87</hi>
+               </item>
+               <item>
+                  <hi>5. Zeuxis</hi> Tablet, againſt Painting, <hi>p 89</hi>
+               </item>
+               <item>
+                  <hi>6. Sinon,</hi> or the Hypocrite, <hi>p. 91</hi>
+               </item>
+               <item>
+                  <hi>7. Demoſthenes</hi> Oration; Againſt Com<g ref="char:EOLhyphen"/>medies, <hi>p. 92</hi>
+               </item>
+               <item>
+                  <hi>8. Therſites,</hi> Or the Back-biter, <hi>p. 94</hi>
+               </item>
+               <item>
+                  <hi>9. Aeſops</hi> Cock; Chriſt our Pearle of Price, <hi>p. 95</hi>
+               </item>
+               <item>
+                  <hi>10. Diogenes,</hi> An Example of Tempe<g ref="char:EOLhyphen"/>rance, <hi>p. 96</hi>
+               </item>
+               <item>Ten Scripture Applications.</item>
+               <item>
+                  <hi>1. Sampſon;</hi> Luſt to be avoided, <hi>p. 98</hi>
+               </item>
+               <item>
+                  <hi>2. Naaman;</hi> Chriſts blood can only cleanſe <g ref="char:V">Ʋ</g>s, <hi>p. 100</hi>
+               </item>
+               <item>
+                  <hi>3. Cozby;</hi> Luſts puniſhment, <hi>p. 101</hi>
+               </item>
+               <item>
+                  <hi>4. David</hi> and <hi>Goliah;</hi> God alone the Giver of Victory, <hi>p 102</hi>
+               </item>
+               <item>
+                  <hi>5. Soddom;</hi> Its ſins compared to <hi>Eng<g ref="char:EOLhyphen"/>lands, p. 103</hi>
+               </item>
+               <item>
+                  <hi>6.</hi> Chriſts Death; Expreſſing his Love to <g ref="char:V">Ʋ</g>s, <hi>p. 105</hi>
+               </item>
+               <item>
+                  <hi>7.</hi> The Prodigal; Gods mercy upon Repen<g ref="char:EOLhyphen"/>tance, <hi>p. 106</hi>
+               </item>
+               <item>
+                  <hi>8.</hi> The Widdows Mite; God regards not the full hand, but the heart of the Gi<g ref="char:EOLhyphen"/>ver, <hi>p. 108</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:50460:72"/>
+                  <hi>9.</hi> Chriſt Riding on an Aſſe; His Humi<g ref="char:EOLhyphen"/>lity, <hi>p. 109</hi>
+               </item>
+               <item>
+                  <hi>10. Peters</hi> Sermon; The words power, and our hardneſs of heart, <hi>p. 110</hi>
+               </item>
+               <item>Ten Occaſional Applications.</item>
+               <item>
+                  <hi>1.</hi> On a withered Roſe; Our backward<g ref="char:EOLhyphen"/>neſs to Repentance, and Gods mercy, <hi>p. 112</hi>
+               </item>
+               <item>
+                  <hi>2.</hi> The Fly in the Candle; Carnal Secu<g ref="char:EOLhyphen"/>rity, <hi>p. 115</hi>
+               </item>
+               <item>
+                  <hi>3.</hi> On a Blotted Paper; Againſt Patches, <hi>p. 116</hi>
+               </item>
+               <item>
+                  <hi>4.</hi> The Sow in the Mire; or the worldling, <hi>p. 118</hi>
+               </item>
+               <item>
+                  <hi>5.</hi> The Whipping of a Tap; or Fatherly Correction, <hi>p. 120</hi>
+               </item>
+               <item>
+                  <hi>6.</hi> On a Fleet of Ships in the night; Chriſt our Pilote, <hi>p. 121</hi>
+               </item>
+               <item>
+                  <hi>7.</hi> The dropping of the Eaves; Mercies cannot mollifie us, <hi>p. 123</hi>
+               </item>
+               <item>
+                  <hi>8.</hi> On a Ship-wrack; Chriſt the Rock of our Salvation, <hi>p. 124</hi>
+               </item>
+               <item>
+                  <hi>9.</hi> The Caſtle; Man a Beſieged Fortreſſe, <hi>p. 126</hi>
+               </item>
+               <item>
+                  <hi>10.</hi> The Ship; the World a Sea, wherein poor man is toſſed, <hi>p. 128</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:50460:72"/>
+            <head>ERRATA'S</head>
+            <p>For
+<list>
+                  <item>
+                     <hi>CAres,</hi> Page 4. line 8.</item>
+                  <item>
+                     <hi>Pilate,</hi> p. 8. l. 6.</item>
+                  <item>
+                     <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eareſt,</hi> p. 8. l. 7.</item>
+                  <item>
+                     <hi>Armes,</hi> p. 9. l. 17.</item>
+                  <item>
+                     <hi>So<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s,</hi> p. 13. l. 6.</item>
+                  <item>
+                     <hi>Brooks,</hi> p. ibid. l. 13.</item>
+                  <item>
+                     <hi>Son,</hi> p. 14. l. 20.</item>
+                  <item>
+                     <hi>Armes,</hi> p. 16. l. 20.</item>
+                  <item>
+                     <hi>ſit,</hi> p. 20. l. 18.</item>
+                  <item>
+                     <hi>may for,</hi> p. 48. l. 22.</item>
+                  <item>
+                     <hi>party,</hi> p. 51. l. 9.</item>
+                  <item>
+                     <hi>T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rget,</hi> p. 61. l. 5.</item>
+                  <item>
+                     <hi>Lillies,</hi> p. 62. l. 22.</item>
+                  <item>
+                     <hi>intſeat,</hi> p. 64. l. 19.</item>
+                  <item>
+                     <hi>indiſſolvable,</hi> p. 69. l. 2.</item>
+                  <item>
+                     <hi>ſtrikt,</hi> p. 69. l. 5.</item>
+                  <item>
+                     <hi>wained,</hi> p. 70. l. 17.</item>
+                  <item>
+                     <hi>Fer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ore,</hi> p. 73. l. 2.</item>
+                  <item>
+                     <hi>ſtrain,</hi> p. 77. l. 9.</item>
+                  <item>
+                     <hi>Ecclip'd,</hi> p. 79. l. 10.</item>
+                  <item>
+                     <hi>our,</hi> p. 87. l. 14.</item>
+                  <item>
+                     <hi>Worldling,</hi> p. 96. l. 2.</item>
+                  <item>
+                     <hi>ſtaid,</hi> p. 107. l. 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</item>
+                  <item>
+                     <hi>ſports,</hi> p. 119. l. 9.</item>
+               </list>
+Read
+<list>
+                  <item>Cares</item>
+                  <item>Pilote</item>
+                  <item>Steereſt</item>
+                  <item>Armies</item>
+                  <item>Suns</item>
+                  <item>Brook</item>
+                  <item>Sun</item>
+                  <item>Armies</item>
+                  <item>ſet</item>
+                  <item>may be for</item>
+                  <item>parley</item>
+                  <item>Turget</item>
+                  <item>Lillie</item>
+                  <item>intreat</item>
+                  <item>indiſſoluble</item>
+                  <item>ſtrict</item>
+                  <item>weaned</item>
+                  <item>Fervore</item>
+                  <item>ſtaire</item>
+                  <item>Ecclips'd</item>
+                  <item>ours</item>
+                  <item>Worldlings</item>
+                  <item>ſtaind</item>
+                  <item>ſpots</item>
+               </list>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
